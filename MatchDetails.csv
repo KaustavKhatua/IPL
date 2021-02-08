@@ -1,0 +1,817 @@
+City,Venue,Date,Team 1,Team 2,Team 1 Captain,Team 2 Captain,Toss Winner,Decision,Opening Team,Winner,By Runs,By Wickets,Run Won By,Wickets Won By,Player of the Match,Umpire 1,Umpire 2
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,35,,Yuvraj Singh,AY Dandekar,NJ Llong
+Pune,Maharashtra Cricket Association Stadium,2017-04-06,Rising Pune Supergiant,Mumbai Indians,,,Rising Pune Supergiant,field,Mumbai Indians,Rising Pune Supergiant,0,1,,7,SPD Smith,A Nand Kishore,S Ravi
+Rajkot,Saurashtra Cricket Association Stadium,2017-04-07,Gujarat Lions,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Gujarat Lions,Kolkata Knight Riders,0,1,,10,CA Lynn,Nitin Menon,CK Nandan
+Indore,Holkar Cricket Stadium,2017-04-08,Kings XI Punjab,Rising Pune Supergiant,,,Kings XI Punjab,field,Rising Pune Supergiant,Kings XI Punjab,0,1,,6,GJ Maxwell,AK Chaudhary,C Shamshuddin
+Bengaluru,M.Chinnaswamy Stadium,2017-04-08,Royal Challengers Bangalore,Delhi Daredevils,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,15,,KM Jadhav,S Ravi,VK Sharma
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-04-09,Sunrisers Hyderabad,Gujarat Lions,,,Sunrisers Hyderabad,field,Gujarat Lions,Sunrisers Hyderabad,0,1,,9,Rashid Khan,A Deshmukh,NJ Llong
+Mumbai,Wankhede Stadium,2017-04-09,Mumbai Indians,Kolkata Knight Riders,,,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,1,,4,N Rana,Nitin Menon,CK Nandan
+Indore,Holkar Cricket Stadium,2017-04-10,Kings XI Punjab,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Kings XI Punjab,0,1,,8,AR Patel,AK Chaudhary,C Shamshuddin
+Pune,Maharashtra Cricket Association Stadium,2017-04-11,Rising Pune Supergiant,Delhi Daredevils,,,Rising Pune Supergiant,field,Delhi Daredevils,Delhi Daredevils,1,0,97,,SV Samson,AY Dandekar,S Ravi
+Mumbai,Wankhede Stadium,2017-04-12,Mumbai Indians,Sunrisers Hyderabad,,,Mumbai Indians,field,Sunrisers Hyderabad,Mumbai Indians,0,1,,4,JJ Bumrah,Nitin Menon,CK Nandan
+Kolkata,Eden Gardens,2017-04-13,Kolkata Knight Riders,Kings XI Punjab,,,Kolkata Knight Riders,field,Kings XI Punjab,Kolkata Knight Riders,0,1,,8,SP Narine,A Deshmukh,NJ Llong
+Bangalore,M Chinnaswamy Stadium,2017-04-14,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,1,,4,KA Pollard,KN Ananthapadmanabhan,AK Chaudhary
+Rajkot,Saurashtra Cricket Association Stadium,2017-04-14,Gujarat Lions,Rising Pune Supergiant,,,Gujarat Lions,field,Rising Pune Supergiant,Gujarat Lions,0,1,,7,AJ Tye,A Nand Kishore,S Ravi
+Kolkata,Eden Gardens,2017-04-15,Kolkata Knight Riders,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,17,,RV Uthappa,AY Dandekar,NJ Llong
+Delhi,Feroz Shah Kotla,2017-04-15,Delhi Daredevils,Kings XI Punjab,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,51,,CJ Anderson,YC Barde,Nitin Menon
+Mumbai,Wankhede Stadium,2017-04-16,Mumbai Indians,Gujarat Lions,,,Mumbai Indians,field,Gujarat Lions,Mumbai Indians,0,1,,6,N Rana,A Nand Kishore,S Ravi
+Bangalore,M Chinnaswamy Stadium,2017-04-16,Royal Challengers Bangalore,Rising Pune Supergiant,,,Royal Challengers Bangalore,field,Rising Pune Supergiant,Rising Pune Supergiant,1,0,27,,BA Stokes,KN Ananthapadmanabhan,C Shamshuddin
+Delhi,Feroz Shah Kotla,2017-04-17,Delhi Daredevils,Kolkata Knight Riders,,,Delhi Daredevils,bat,Delhi Daredevils,Kolkata Knight Riders,0,1,,4,NM Coulter-Nile,Nitin Menon,CK Nandan
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-04-17,Sunrisers Hyderabad,Kings XI Punjab,,,Kings XI Punjab,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,5,,B Kumar,AY Dandekar,A Deshmukh
+Rajkot,Saurashtra Cricket Association Stadium,2017-04-18,Gujarat Lions,Royal Challengers Bangalore,,,Gujarat Lions,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,21,,CH Gayle,S Ravi,VK Sharma
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-04-19,Sunrisers Hyderabad,Delhi Daredevils,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,15,,KS Williamson,CB Gaffaney,NJ Llong
+Indore,Holkar Cricket Stadium,2017-04-20,Kings XI Punjab,Mumbai Indians,,,Mumbai Indians,field,Kings XI Punjab,Mumbai Indians,0,1,,8,JC Buttler,M Erasmus,C Shamshuddin
+Kolkata,Eden Gardens,2017-04-21,Kolkata Knight Riders,Gujarat Lions,,,Gujarat Lions,field,Kolkata Knight Riders,Gujarat Lions,0,1,,4,SK Raina,CB Gaffaney,Nitin Menon
+Mumbai,Wankhede Stadium,2017-04-22,Mumbai Indians,Delhi Daredevils,,,Delhi Daredevils,field,Mumbai Indians,Mumbai Indians,1,0,14,,MJ McClenaghan,A Nand Kishore,S Ravi
+Pune,Maharashtra Cricket Association Stadium,2017-04-22,Rising Pune Supergiant,Sunrisers Hyderabad,,,Rising Pune Supergiant,field,Sunrisers Hyderabad,Rising Pune Supergiant,0,1,,6,MS Dhoni,AY Dandekar,A Deshmukh
+Rajkot,Saurashtra Cricket Association Stadium,2017-04-23,Gujarat Lions,Kings XI Punjab,,,Gujarat Lions,field,Kings XI Punjab,Kings XI Punjab,1,0,26,,HM Amla,AK Chaudhary,M Erasmus
+Kolkata,Eden Gardens,2017-04-23,Kolkata Knight Riders,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,82,,NM Coulter-Nile,CB Gaffaney,CK Nandan
+Mumbai,Wankhede Stadium,2017-04-24,Mumbai Indians,Rising Pune Supergiant,,,Mumbai Indians,field,Rising Pune Supergiant,Rising Pune Supergiant,1,0,3,,BA Stokes,A Nand Kishore,S Ravi
+Pune,Maharashtra Cricket Association Stadium,2017-04-26,Rising Pune Supergiant,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Rising Pune Supergiant,Kolkata Knight Riders,0,1,,7,RV Uthappa,AY Dandekar,NJ Llong
+Bangalore,M Chinnaswamy Stadium,2017-04-27,Royal Challengers Bangalore,Gujarat Lions,,,Gujarat Lions,field,Royal Challengers Bangalore,Gujarat Lions,0,1,,7,AJ Tye,AK Chaudhary,C Shamshuddin
+Kolkata,Eden Gardens,2017-04-28,Kolkata Knight Riders,Delhi Daredevils,,,Kolkata Knight Riders,field,Delhi Daredevils,Kolkata Knight Riders,0,1,,7,G Gambhir,NJ Llong,S Ravi
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-04-28,Kings XI Punjab,Sunrisers Hyderabad,,,Kings XI Punjab,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,26,,Rashid Khan,Nitin Menon,CK Nandan
+Pune,Maharashtra Cricket Association Stadium,2017-04-29,Rising Pune Supergiant,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Rising Pune Supergiant,Rising Pune Supergiant,1,0,61,,LH Ferguson,KN Ananthapadmanabhan,M Erasmus
+Rajkot,Saurashtra Cricket Association Stadium,2017-04-29,Gujarat Lions,Mumbai Indians,,,Gujarat Lions,bat,Gujarat Lions,Tied,,,,,KH Pandya,AK Chaudhary,CB Gaffaney
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-04-30,Kings XI Punjab,Delhi Daredevils,,,Kings XI Punjab,field,Delhi Daredevils,Kings XI Punjab,0,1,,10,Sandeep Sharma,YC Barde,CK Nandan
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-04-30,Sunrisers Hyderabad,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,48,,DA Warner,AY Dandekar,S Ravi
+Mumbai,Wankhede Stadium,2017-05-01,Mumbai Indians,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Mumbai Indians,0,1,,5,RG Sharma,AK Chaudhary,CB Gaffaney
+Pune,Maharashtra Cricket Association Stadium,2017-05-01,Rising Pune Supergiant,Gujarat Lions,,,Rising Pune Supergiant,field,Gujarat Lions,Rising Pune Supergiant,0,1,,5,BA Stokes,M Erasmus,C Shamshuddin
+Delhi,Feroz Shah Kotla,2017-05-02,Delhi Daredevils,Sunrisers Hyderabad,,,Delhi Daredevils,field,Sunrisers Hyderabad,Delhi Daredevils,0,1,,6,Mohammed Shami,YC Barde,Nitin Menon
+Kolkata,Eden Gardens,2017-05-03,Kolkata Knight Riders,Rising Pune Supergiant,,,Rising Pune Supergiant,field,Kolkata Knight Riders,Rising Pune Supergiant,0,1,,4,RA Tripathi,KN Ananthapadmanabhan,A Nand Kishore
+Delhi,Feroz Shah Kotla,2017-05-04,Delhi Daredevils,Gujarat Lions,,,Delhi Daredevils,field,Gujarat Lions,Delhi Daredevils,0,1,,7,RR Pant,M Erasmus,Nitin Menon
+Bangalore,M Chinnaswamy Stadium,2017-05-05,Royal Challengers Bangalore,Kings XI Punjab,,,Royal Challengers Bangalore,field,Kings XI Punjab,Kings XI Punjab,1,0,19,,Sandeep Sharma,CB Gaffaney,C Shamshuddin
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-05-06,Sunrisers Hyderabad,Rising Pune Supergiant,,,Sunrisers Hyderabad,field,Rising Pune Supergiant,Rising Pune Supergiant,1,0,12,,JD Unadkat,KN Ananthapadmanabhan,AK Chaudhary
+Delhi,Feroz Shah Kotla,2017-05-06,Delhi Daredevils,Mumbai Indians,,,Delhi Daredevils,field,Mumbai Indians,Mumbai Indians,1,0,146,,LMP Simmons,Nitin Menon,CK Nandan
+Bangalore,M Chinnaswamy Stadium,2017-05-07,Royal Challengers Bangalore,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,1,,6,SP Narine,AY Dandekar,C Shamshuddin
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-05-07,Kings XI Punjab,Gujarat Lions,,,Gujarat Lions,field,Kings XI Punjab,Gujarat Lions,0,1,,6,DR Smith,A Nand Kishore,VK Sharma
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-05-08,Sunrisers Hyderabad,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Sunrisers Hyderabad,0,1,,7,S Dhawan,KN Ananthapadmanabhan,M Erasmus
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-05-09,Kings XI Punjab,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Kings XI Punjab,Kings XI Punjab,1,0,14,,MM Sharma,A Nand Kishore,S Ravi
+Kanpur,Green Park,2017-05-10,Gujarat Lions,Delhi Daredevils,,,Delhi Daredevils,field,Gujarat Lions,Delhi Daredevils,0,1,,2,SS Iyer,YC Barde,AK Chaudhary
+Mumbai,Wankhede Stadium,2017-05-11,Mumbai Indians,Kings XI Punjab,,,Mumbai Indians,field,Kings XI Punjab,Kings XI Punjab,1,0,7,,WP Saha,A Deshmukh,A Nand Kishore
+Delhi,Feroz Shah Kotla,2017-05-12,Delhi Daredevils,Rising Pune Supergiant,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,7,,KK Nair,KN Ananthapadmanabhan,CK Nandan
+Kanpur,Green Park,2017-05-13,Gujarat Lions,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Gujarat Lions,Sunrisers Hyderabad,0,1,,8,Mohammed Siraj,AK Chaudhary,Nitin Menon
+Kolkata,Eden Gardens,2017-05-13,Kolkata Knight Riders,Mumbai Indians,,,Kolkata Knight Riders,field,Mumbai Indians,Mumbai Indians,1,0,9,,AT Rayudu,A Nand Kishore,S Ravi
+Pune,Maharashtra Cricket Association Stadium,2017-05-14,Rising Pune Supergiant,Kings XI Punjab,,,Rising Pune Supergiant,field,Kings XI Punjab,Rising Pune Supergiant,0,1,,9,JD Unadkat,AY Dandekar,A Deshmukh
+Delhi,Feroz Shah Kotla,2017-05-14,Delhi Daredevils,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,10,,HV Patel,CK Nandan,C Shamshuddin
+Mumbai,Wankhede Stadium,2017-05-16,Mumbai Indians,Rising Pune Supergiant,,,Mumbai Indians,field,Rising Pune Supergiant,Rising Pune Supergiant,1,0,20,,Washington Sundar,S Ravi,C Shamshuddin
+Bangalore,M Chinnaswamy Stadium,2017-05-17,Sunrisers Hyderabad,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Sunrisers Hyderabad,Kolkata Knight Riders,0,1,,7,NM Coulter-Nile,AK Chaudhary,Nitin Menon
+Bangalore,M Chinnaswamy Stadium,2017-05-19,Mumbai Indians,Kolkata Knight Riders,,,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,1,,6,KV Sharma,NJ Llong,Nitin Menon
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-05-21,Mumbai Indians,Rising Pune Supergiant,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,1,,KH Pandya,NJ Llong,S Ravi
+Mumbai,Wankhede Stadium,2018-04-07,Mumbai Indians,Chennai Super Kings,,,Chennai Super Kings,field,Mumbai Indians,Chennai Super Kings,0,1,,1,DJ Bravo,CB Gaffaney,A Nand Kishore
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2018-04-08,Kings XI Punjab,Delhi Daredevils,,,Kings XI Punjab,field,Delhi Daredevils,Kings XI Punjab,0,1,,6,KL Rahul,KN Ananthapadmanabhan,RJ Tucker
+Kolkata,Eden Gardens,2018-04-08,Kolkata Knight Riders,Royal Challengers Bangalore,,,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,1,,4,SP Narine,C Shamshuddin,A Deshmukh
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2018-04-09,Sunrisers Hyderabad,Rajasthan Royals,,,Sunrisers Hyderabad,field,Rajasthan Royals,Sunrisers Hyderabad,0,1,,9,S Dhawan,VA Kulkarni,NJ Llong
+Chennai,"MA Chidambaram Stadium, Chepauk",2018-04-10,Chennai Super Kings,Kolkata Knight Riders,,,Chennai Super Kings,field,Kolkata Knight Riders,Chennai Super Kings,0,1,,5,SW Billings,CB Gaffaney,AK Chaudhary
+Jaipur,Sawai Mansingh Stadium,2018-04-11,Rajasthan Royals,Delhi Daredevils,,,Delhi Daredevils,field,Rajasthan Royals,Rajasthan Royals,1,0,10,,SV Samson,KN Ananthapadmanabhan,Nitin Menon
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2018-04-12,Sunrisers Hyderabad,Mumbai Indians,,,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,1,,1,Rashid Khan,NJ Llong,CK Nandan
+Bengaluru,M.Chinnaswamy Stadium,2018-04-13,Royal Challengers Bangalore,Kings XI Punjab,,,Royal Challengers Bangalore,field,Kings XI Punjab,Royal Challengers Bangalore,0,1,,4,UT Yadav,A Deshmukh,S Ravi
+Mumbai,Wankhede Stadium,2018-04-14,Mumbai Indians,Delhi Daredevils,,,Delhi Daredevils,field,Mumbai Indians,Delhi Daredevils,0,1,,7,JJ Roy,KN Ananthapadmanabhan,Nitin Menon
+Kolkata,Eden Gardens,2018-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Kolkata Knight Riders,Sunrisers Hyderabad,0,1,,5,B Stanlake,AK Chaudhary,A Nand Kishore
+Bengaluru,M.Chinnaswamy Stadium,2018-04-15,Royal Challengers Bangalore,Rajasthan Royals,,,Royal Challengers Bangalore,field,Rajasthan Royals,Rajasthan Royals,1,0,19,,SV Samson,C Shamshuddin,S Ravi
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2018-04-15,Kings XI Punjab,Chennai Super Kings,,,Chennai Super Kings,field,Kings XI Punjab,Kings XI Punjab,1,0,4,,CH Gayle,VA Kulkarni,CK Nandan
+Kolkata,Eden Gardens,2018-04-16,Kolkata Knight Riders,Delhi Daredevils,,,Delhi Daredevils,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,71,,N Rana,AK Chaudhary,A Nand Kishore
+Mumbai,Wankhede Stadium,2018-04-17,Mumbai Indians,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,1,0,46,,RG Sharma,RJ Tucker,Nitin Menon
+Jaipur,Sawai Mansingh Stadium,2018-04-18,Rajasthan Royals,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Rajasthan Royals,Kolkata Knight Riders,0,1,,7,N Rana,A Deshmukh,S Ravi
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2018-04-19,Kings XI Punjab,Sunrisers Hyderabad,,,Kings XI Punjab,bat,Kings XI Punjab,Kings XI Punjab,1,0,15,,CH Gayle,NJ Llong,AK Chaudhary
+Pune,Maharashtra Cricket Association Stadium,2018-04-20,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,field,Chennai Super Kings,Chennai Super Kings,1,0,64,,SR Watson,KN Ananthapadmanabhan,Nitin Menon
+Kolkata,Eden Gardens,2018-04-21,Kolkata Knight Riders,Kings XI Punjab,,,Kings XI Punjab,field,Kolkata Knight Riders,Kings XI Punjab,0,1,,9,KL Rahul,C Shamshuddin,A Deshmukh
+Bengaluru,M.Chinnaswamy Stadium,2018-04-21,Royal Challengers Bangalore,Delhi Daredevils,,,Royal Challengers Bangalore,field,Delhi Daredevils,Royal Challengers Bangalore,0,1,,6,AB de Villiers,CB Gaffaney,CK Nandan
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2018-04-22,Sunrisers Hyderabad,Chennai Super Kings,,,Sunrisers Hyderabad,field,Chennai Super Kings,Chennai Super Kings,1,0,4,,AT Rayudu,VA Kulkarni,AK Chaudhary
+Jaipur,Sawai Mansingh Stadium,2018-04-22,Rajasthan Royals,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Rajasthan Royals,0,1,,3,JC Archer,KN Ananthapadmanabhan,RJ Tucker
+Delhi,Feroz Shah Kotla,2018-04-23,Delhi Daredevils,Kings XI Punjab,,,Delhi Daredevils,field,Kings XI Punjab,Kings XI Punjab,1,0,4,,AS Rajpoot,A Nand Kishore,CK Nandan
+Mumbai,Wankhede Stadium,2018-04-24,Mumbai Indians,Sunrisers Hyderabad,,,Mumbai Indians,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,31,,Rashid Khan,C Shamshuddin,S Ravi
+Bengaluru,M.Chinnaswamy Stadium,2018-04-25,Royal Challengers Bangalore,Chennai Super Kings,,,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,1,,5,MS Dhoni,NJ Llong,VK Sharma
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2018-04-26,Sunrisers Hyderabad,Kings XI Punjab,,,Kings XI Punjab,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,13,,AS Rajpoot,YC Barde,CK Nandan
+Delhi,Feroz Shah Kotla,2018-04-27,Delhi Daredevils,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Delhi Daredevils,Delhi Daredevils,1,0,55,,SS Iyer,C Shamshuddin,S Ravi
+Pune,Maharashtra Cricket Association Stadium,2018-04-28,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,1,,8,RG Sharma,CB Gaffaney,Nitin Menon
+Jaipur,Sawai Mansingh Stadium,2018-04-29,Rajasthan Royals,Sunrisers Hyderabad,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,11,,KS Williamson,BNJ Oxenford,A Nand Kishore
+Bengaluru,M.Chinnaswamy Stadium,2018-04-29,Royal Challengers Bangalore,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,1,,6,CA Lynn,NJ Llong,AK Chaudhary
+Pune,Maharashtra Cricket Association Stadium,2018-04-30,Chennai Super Kings,Delhi Daredevils,,,Delhi Daredevils,field,Chennai Super Kings,Chennai Super Kings,1,0,13,,SR Watson,AY Dandekar,C Shamshuddin
+Bengaluru,M.Chinnaswamy Stadium,2018-05-01,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,14,,TG Southee,M Erasmus,Nitin Menon
+Delhi,Feroz Shah Kotla,2018-05-02,Delhi Daredevils,Rajasthan Royals,,,Rajasthan Royals,field,Delhi Daredevils,Delhi Daredevils,1,0,4,,RR Pant,VK Sharma,CK Nandan
+Kolkata,Eden Gardens,2018-05-03,Kolkata Knight Riders,Chennai Super Kings,,,Kolkata Knight Riders,field,Chennai Super Kings,Kolkata Knight Riders,0,1,,6,SP Narine,HDPK Dharmasena,A Deshmukh
+Indore,Holkar Cricket Stadium,2018-05-04,Kings XI Punjab,Mumbai Indians,,,Mumbai Indians,field,Kings XI Punjab,Mumbai Indians,0,1,,6,SA Yadav,AY Dandekar,S Ravi
+Pune,Maharashtra Cricket Association Stadium,2018-05-05,Chennai Super Kings,Royal Challengers Bangalore,,,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,1,,6,RA Jadeja,Nitin Menon,YC Barde
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2018-05-05,Sunrisers Hyderabad,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Sunrisers Hyderabad,0,1,,7,Rashid Khan,BNJ Oxenford,CK Nandan
+Mumbai,Wankhede Stadium,2018-05-06,Mumbai Indians,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Mumbai Indians,Mumbai Indians,1,0,13,,HH Pandya,HDPK Dharmasena,A Deshmukh
+Indore,Holkar Cricket Stadium,2018-05-06,Kings XI Punjab,Rajasthan Royals,,,Kings XI Punjab,field,Rajasthan Royals,Kings XI Punjab,0,1,,6,Mujeeb Ur Rahman,C Shamshuddin,S Ravi
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2018-05-07,Sunrisers Hyderabad,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,5,,KS Williamson,BNJ Oxenford,VK Sharma
+Jaipur,Sawai Mansingh Stadium,2018-05-08,Rajasthan Royals,Kings XI Punjab,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,15,,JC Buttler,M Erasmus,Nitin Menon
+Kolkata,Eden Gardens,2018-05-09,Kolkata Knight Riders,Mumbai Indians,,,Kolkata Knight Riders,field,Mumbai Indians,Mumbai Indians,1,0,102,,Ishan Kishan,KN Ananthapadmanabhan,AK Chaudhary
+Delhi,Feroz Shah Kotla,2018-05-10,Delhi Daredevils,Sunrisers Hyderabad,,,Delhi Daredevils,bat,Delhi Daredevils,Sunrisers Hyderabad,0,1,,9,S Dhawan,AY Dandekar,C Shamshuddin
+Jaipur,Sawai Mansingh Stadium,2018-05-11,Rajasthan Royals,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Rajasthan Royals,0,1,,4,JC Buttler,M Erasmus,YC Barde
+Indore,Holkar Cricket Stadium,2018-05-12,Kings XI Punjab,Kolkata Knight Riders,,,Kings XI Punjab,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,31,,SP Narine,VK Sharma,CK Nandan
+Delhi,Feroz Shah Kotla,2018-05-12,Delhi Daredevils,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Delhi Daredevils,Royal Challengers Bangalore,0,1,,5,AB de Villiers,KN Ananthapadmanabhan,HDPK Dharmasena
+Pune,Maharashtra Cricket Association Stadium,2018-05-13,Chennai Super Kings,Sunrisers Hyderabad,,,Chennai Super Kings,field,Sunrisers Hyderabad,Chennai Super Kings,0,1,,8,AT Rayudu,M Erasmus,YC Barde
+Mumbai,Wankhede Stadium,2018-05-13,Mumbai Indians,Rajasthan Royals,,,Rajasthan Royals,field,Mumbai Indians,Rajasthan Royals,0,1,,7,JC Buttler,Nitin Menon,S Ravi
+Indore,Holkar Cricket Stadium,2018-05-14,Kings XI Punjab,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kings XI Punjab,Royal Challengers Bangalore,0,1,,10,UT Yadav,BNJ Oxenford,VK Sharma
+Kolkata,Eden Gardens,2018-05-15,Kolkata Knight Riders,Rajasthan Royals,,,Kolkata Knight Riders,field,Rajasthan Royals,Kolkata Knight Riders,0,1,,6,Kuldeep Yadav,HDPK Dharmasena,AK Chaudhary
+Mumbai,Wankhede Stadium,2018-05-16,Mumbai Indians,Kings XI Punjab,,,Kings XI Punjab,field,Mumbai Indians,Mumbai Indians,1,0,3,,JJ Bumrah,M Erasmus,Nitin Menon
+Bengaluru,M.Chinnaswamy Stadium,2018-05-17,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,14,,AB de Villiers,AY Dandekar,S Ravi
+Delhi,Feroz Shah Kotla,2018-05-18,Delhi Daredevils,Chennai Super Kings,,,Chennai Super Kings,field,Delhi Daredevils,Delhi Daredevils,1,0,34,,HV Patel,VA Kulkarni,HDPK Dharmasena
+Jaipur,Sawai Mansingh Stadium,2018-05-19,Rajasthan Royals,Royal Challengers Bangalore,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,30,,S Gopal,BNJ Oxenford,VK Sharma
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2018-05-19,Sunrisers Hyderabad,Kolkata Knight Riders,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Kolkata Knight Riders,0,1,,5,CA Lynn,AK Chaudhary,S Ravi
+Delhi,Feroz Shah Kotla,2018-05-20,Delhi Daredevils,Mumbai Indians,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,11,,A Mishra,HDPK Dharmasena,CK Nandan
+Pune,Maharashtra Cricket Association Stadium,2018-05-20,Chennai Super Kings,Kings XI Punjab,,,Chennai Super Kings,field,Kings XI Punjab,Chennai Super Kings,0,1,,5,L Ngidi,Nitin Menon,YC Barde
+Mumbai,Wankhede Stadium,2018-05-22,Sunrisers Hyderabad,Chennai Super Kings,,,Chennai Super Kings,field,Sunrisers Hyderabad,Chennai Super Kings,0,1,,2,F du Plessis,C Shamshuddin,M Erasmus
+Kolkata,Eden Gardens,2018-05-23,Kolkata Knight Riders,Rajasthan Royals,,,Rajasthan Royals,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,25,,AD Russell,AK Chaudhary,Nitin Menon
+Kolkata,Eden Gardens,2018-05-25,Kolkata Knight Riders,Sunrisers Hyderabad,,,Kolkata Knight Riders,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,14,,Rashid Khan,HDPK Dharmasena,Nitin Menon
+Mumbai,Wankhede Stadium,2018-05-27,Chennai Super Kings,Sunrisers Hyderabad,,,Chennai Super Kings,field,Sunrisers Hyderabad,Chennai Super Kings,0,1,,8,SR Watson,M Erasmus,S Ravi
+Chennai,"MA Chidambaram Stadium, Chepauk",2019-03-23,Chennai Super Kings,Royal Challengers Bangalore,,,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,1,,7,Harbhajan Singh,AY Dandekar,BNJ Oxenford
+Kolkata,Eden Gardens,2019-03-24,Kolkata Knight Riders,Sunrisers Hyderabad,,,Kolkata Knight Riders,field,Sunrisers Hyderabad,Kolkata Knight Riders,0,1,,6,AD Russell,CB Gaffaney,AK Chaudhary
+Mumbai,Wankhede Stadium,2019-03-24,Mumbai Indians,Delhi Capitals,,,Mumbai Indians,field,Delhi Capitals,Delhi Capitals,1,0,37,,RR Pant,YC Barde,S Ravi
+Jaipur,Sawai Mansingh Stadium,2019-03-25,Rajasthan Royals,Kings XI Punjab,,,Rajasthan Royals,field,Kings XI Punjab,Kings XI Punjab,1,0,14,,CH Gayle,KN Ananthapadmanabhan,C Shamshuddin
+Delhi,Feroz Shah Kotla,2019-03-26,Delhi Capitals,Chennai Super Kings,,,Delhi Capitals,bat,Delhi Capitals,Chennai Super Kings,0,1,,6,SR Watson,M Erasmus,Nitin Menon
+Kolkata,Eden Gardens,2019-03-27,Kolkata Knight Riders,Kings XI Punjab,,,Kings XI Punjab,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,28,,AD Russell,VA Kulkarni,AK Chaudhary
+Bengaluru,M.Chinnaswamy Stadium,2019-03-28,Royal Challengers Bangalore,Mumbai Indians,,,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,1,0,6,,JJ Bumrah,CK Nandan,S Ravi
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2019-03-29,Sunrisers Hyderabad,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Sunrisers Hyderabad,0,1,,5,Rashid Khan,C Shamshuddin,BNJ Oxenford
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2019-03-30,Kings XI Punjab,Mumbai Indians,,,Kings XI Punjab,field,Mumbai Indians,Kings XI Punjab,0,1,,8,MA Agarwal,VA Kulkarni,CB Gaffaney
+Delhi,Feroz Shah Kotla,2019-03-30,Delhi Capitals,Kolkata Knight Riders,,,Delhi Capitals,field,Kolkata Knight Riders,Tied,,,,,PP Shaw,AY Dandekar,Nitin Menon
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2019-03-31,Sunrisers Hyderabad,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,118,,JM Bairstow,KN Ananthapadmanabhan,S Ravi
+Chennai,"MA Chidambaram Stadium, Chepauk",2019-03-31,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,field,Chennai Super Kings,Chennai Super Kings,1,0,8,,MS Dhoni,YC Barde,CK Nandan
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2019-04-01,Kings XI Punjab,Delhi Capitals,,,Delhi Capitals,field,Kings XI Punjab,Kings XI Punjab,1,0,14,,SM Curran,CB Gaffaney,AK Chaudhary
+Jaipur,Sawai Mansingh Stadium,2019-04-02,Rajasthan Royals,Royal Challengers Bangalore,,,Rajasthan Royals,field,Royal Challengers Bangalore,Rajasthan Royals,0,1,,7,S Gopal,AY Dandekar,M Erasmus
+Mumbai,Wankhede Stadium,2019-04-03,Mumbai Indians,Chennai Super Kings,,,Chennai Super Kings,field,Mumbai Indians,Mumbai Indians,1,0,37,,HH Pandya,RJ Tucker,BNJ Oxenford
+Delhi,Feroz Shah Kotla,2019-04-04,Delhi Capitals,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Delhi Capitals,Sunrisers Hyderabad,0,1,,5,JM Bairstow,KN Ananthapadmanabhan,C Shamshuddin
+Bengaluru,M.Chinnaswamy Stadium,2019-04-05,Royal Challengers Bangalore,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,1,,5,AD Russell,CB Gaffaney,AK Chaudhary
+Chennai,"MA Chidambaram Stadium, Chepauk",2019-04-06,Chennai Super Kings,Kings XI Punjab,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,22,,Harbhajan Singh,KN Ananthapadmanabhan,RJ Tucker
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2019-04-06,Sunrisers Hyderabad,Mumbai Indians,,,Sunrisers Hyderabad,field,Mumbai Indians,Mumbai Indians,1,0,40,,AS Joseph,AY Dandekar,Nitin Menon
+Bengaluru,M.Chinnaswamy Stadium,2019-04-07,Royal Challengers Bangalore,Delhi Capitals,,,Delhi Capitals,field,Royal Challengers Bangalore,Delhi Capitals,0,1,,4,K Rabada,YC Barde,S Ravi
+Jaipur,Sawai Mansingh Stadium,2019-04-07,Rajasthan Royals,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Rajasthan Royals,Kolkata Knight Riders,0,1,,8,HF Gurney,CB Gaffaney,AK Chaudhary
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2019-04-08,Kings XI Punjab,Sunrisers Hyderabad,,,Kings XI Punjab,field,Sunrisers Hyderabad,Kings XI Punjab,0,1,,6,KL Rahul,AY Dandekar,M Erasmus
+Chennai,"MA Chidambaram Stadium, Chepauk",2019-04-09,Chennai Super Kings,Kolkata Knight Riders,,,Chennai Super Kings,field,Kolkata Knight Riders,Chennai Super Kings,0,1,,7,DL Chahar,RJ Tucker,C Shamshuddin
+Mumbai,Wankhede Stadium,2019-04-10,Mumbai Indians,Kings XI Punjab,,,Mumbai Indians,field,Kings XI Punjab,Mumbai Indians,0,1,,3,KA Pollard,YC Barde,S Ravi
+Jaipur,Sawai Mansingh Stadium,2019-04-11,Rajasthan Royals,Chennai Super Kings,,,Chennai Super Kings,field,Rajasthan Royals,Chennai Super Kings,0,1,,4,MS Dhoni,UV Gandhe,BNJ Oxenford
+Kolkata,Eden Gardens,2019-04-12,Kolkata Knight Riders,Delhi Capitals,,,Delhi Capitals,field,Kolkata Knight Riders,Delhi Capitals,0,1,,7,S Dhawan,YC Barde,CK Nandan
+Mumbai,Wankhede Stadium,2019-04-13,Mumbai Indians,Rajasthan Royals,,,Rajasthan Royals,field,Mumbai Indians,Rajasthan Royals,0,1,,4,JC Buttler,Nitin Menon,A Nand Kishore
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2019-04-13,Kings XI Punjab,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kings XI Punjab,Royal Challengers Bangalore,0,1,,8,AB de Villiers,UV Gandhe,S Ravi
+Kolkata,Eden Gardens,2019-04-14,Kolkata Knight Riders,Chennai Super Kings,,,Chennai Super Kings,field,Kolkata Knight Riders,Chennai Super Kings,0,1,,5,Imran Tahir,RJ Tucker,CK Nandan
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2019-04-14,Sunrisers Hyderabad,Delhi Capitals,,,Sunrisers Hyderabad,field,Delhi Capitals,Delhi Capitals,1,0,39,,KMA Paul,BNJ Oxenford,AK Chaudhary
+Mumbai,Wankhede Stadium,2019-04-15,Mumbai Indians,Royal Challengers Bangalore,,,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,1,,5,SL Malinga,M Erasmus,Nitin Menon
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2019-04-16,Kings XI Punjab,Rajasthan Royals,,,Rajasthan Royals,field,Kings XI Punjab,Kings XI Punjab,1,0,12,,R Ashwin,VA Kulkarni,AK Chaudhary
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2019-04-17,Sunrisers Hyderabad,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Sunrisers Hyderabad,0,1,,6,DA Warner,UV Gandhe,IJ Gould
+Delhi,Feroz Shah Kotla,2019-04-18,Delhi Capitals,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,40,,HH Pandya,BNJ Oxenford,NJ Llong
+Kolkata,Eden Gardens,2019-04-19,Kolkata Knight Riders,Royal Challengers Bangalore,,,Kolkata Knight Riders,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,10,,V Kohli,IJ Gould,Nitin Menon
+Jaipur,Sawai Mansingh Stadium,2019-04-20,Rajasthan Royals,Mumbai Indians,,,Rajasthan Royals,field,Mumbai Indians,Rajasthan Royals,0,1,,5,SPD Smith,YC Barde,S Ravi
+Delhi,Feroz Shah Kotla,2019-04-20,Delhi Capitals,Kings XI Punjab,,,Delhi Capitals,field,Kings XI Punjab,Delhi Capitals,0,1,,5,SS Iyer,UV Gandhe,C Shamshuddin
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2019-04-21,Sunrisers Hyderabad,Kolkata Knight Riders,,,Sunrisers Hyderabad,field,Kolkata Knight Riders,Sunrisers Hyderabad,0,1,,9,KK Ahmed,NJ Llong,Nitin Menon
+Bengaluru,M.Chinnaswamy Stadium,2019-04-21,Royal Challengers Bangalore,Chennai Super Kings,,,Chennai Super Kings,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,1,,PA Patel,RJ Tucker,VA Kulkarni
+Jaipur,Sawai Mansingh Stadium,2019-04-22,Rajasthan Royals,Delhi Capitals,,,Delhi Capitals,field,Rajasthan Royals,Delhi Capitals,0,1,,6,RR Pant,A Nand Kishore,S Ravi
+Chennai,"MA Chidambaram Stadium, Chepauk",2019-04-23,Chennai Super Kings,Sunrisers Hyderabad,,,Chennai Super Kings,field,Sunrisers Hyderabad,Chennai Super Kings,0,1,,6,SR Watson,NJ Llong,AK Chaudhary
+Bengaluru,M.Chinnaswamy Stadium,2019-04-24,Royal Challengers Bangalore,Kings XI Punjab,,,Kings XI Punjab,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,17,,AB de Villiers,C Shamshuddin,BNJ Oxenford
+Kolkata,Eden Gardens,2019-04-25,Kolkata Knight Riders,Rajasthan Royals,,,Rajasthan Royals,field,Kolkata Knight Riders,Rajasthan Royals,0,1,,3,VR Aaron,AY Dandekar,IJ Gould
+Chennai,"MA Chidambaram Stadium, Chepauk",2019-04-26,Chennai Super Kings,Mumbai Indians,,,Chennai Super Kings,field,Mumbai Indians,Mumbai Indians,1,0,46,,RG Sharma,NJ Llong,AK Chaudhary
+Jaipur,Sawai Mansingh Stadium,2019-04-27,Rajasthan Royals,Sunrisers Hyderabad,,,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,1,,7,JD Unadkat,YC Barde,A Nand Kishore
+Delhi,Feroz Shah Kotla,2019-04-28,Delhi Capitals,Royal Challengers Bangalore,,,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,1,0,16,,S Dhawan,KN Ananthapadmanabhan,BNJ Oxenford
+Kolkata,Eden Gardens,2019-04-28,Kolkata Knight Riders,Mumbai Indians,,,Mumbai Indians,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,34,,AD Russell,IJ Gould,Nitin Menon
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2019-04-29,Sunrisers Hyderabad,Kings XI Punjab,,,Kings XI Punjab,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,45,,DA Warner,CK Nandan,S Ravi
+Bengaluru,M.Chinnaswamy Stadium,2019-04-30,Royal Challengers Bangalore,Rajasthan Royals,,,Rajasthan Royals,field,Royal Challengers Bangalore,Tied,,,,,,UV Gandhe,NJ Llong
+Chennai,"MA Chidambaram Stadium, Chepauk",2019-05-01,Chennai Super Kings,Delhi Capitals,,,Delhi Capitals,field,Chennai Super Kings,Chennai Super Kings,1,0,80,,MS Dhoni,AY Dandekar,Nitin Menon
+Mumbai,Wankhede Stadium,2019-05-02,Mumbai Indians,Sunrisers Hyderabad,,,Mumbai Indians,bat,Mumbai Indians,Tied,,,,,JJ Bumrah,CK Nandan,S Ravi
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2019-05-03,Kings XI Punjab,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Kings XI Punjab,Kolkata Knight Riders,0,1,,7,Shubman Gill,C Shamshuddin,BNJ Oxenford
+Delhi,Feroz Shah Kotla,2019-05-04,Delhi Capitals,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Delhi Capitals,0,1,,5,A Mishra,AY Dandekar,IJ Gould
+Bengaluru,M.Chinnaswamy Stadium,2019-05-04,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Royal Challengers Bangalore,0,1,,4,SO Hetmyer,NJ Llong,AK Chaudhary
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2019-05-05,Kings XI Punjab,Chennai Super Kings,,,Kings XI Punjab,field,Chennai Super Kings,Kings XI Punjab,0,1,,6,KL Rahul,KN Ananthapadmanabhan,C Shamshuddin
+Mumbai,Wankhede Stadium,2019-05-05,Mumbai Indians,Kolkata Knight Riders,,,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,1,,9,HH Pandya,A Nand Kishore,CK Nandan
+Chennai,"MA Chidambaram Stadium, Chepauk",2019-05-07,Mumbai Indians,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Mumbai Indians,0,1,,6,SA Yadav,NJ Llong,Nitin Menon
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2019-05-08,Delhi Capitals,Sunrisers Hyderabad,,,Delhi Capitals,field,Sunrisers Hyderabad,Delhi Capitals,0,1,,2,RR Pant,BNJ Oxenford,S Ravi
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2019-05-10,Chennai Super Kings,Delhi Capitals,,,Chennai Super Kings,field,Delhi Capitals,Chennai Super Kings,0,1,,6,F du Plessis,BNJ Oxenford,S Ravi
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2019-05-12,Mumbai Indians,Chennai Super Kings,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,1,,JJ Bumrah,IJ Gould,Nitin Menon
+Abu Dhabi,Sheikh Zayed Stadium,2020-09-19,Mumbai Indians,Chennai Super Kings,,,Chennai Super Kings,field,Mumbai Indians,Chennai Super Kings,0,1,,5,AT Rayudu,CB Gaffaney,VK Sharma
+,Dubai International Cricket Stadium,2020-09-20,Delhi Capitals,Kings XI Punjab,,,Kings XI Punjab,field,Delhi Capitals,Tied,,,,,MP Stoinis,AK Chaudhary,Nitin Menon
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-21,Kolkata Knight Riders,Royal Challengers Bangalore,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,8,Mohammed Siraj,VK Sharma,S Ravi
+,Sharjah Cricket Stadium,2020-11-03,Mumbai Indians,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,1,,10,S Nadeem,C Shamshuddin,RK Illingworth
+,Sharjah Cricket Stadium,2020-09-22,Rajasthan Royals,Chennai Super Kings,,,Chennai Super Kings,field,Rajasthan Royals,Rajasthan Royals,1,0,16,,SV Samson,C Shamshuddin,VA Kulkarni
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-24,Kolkata Knight Riders,Delhi Capitals,,,Delhi Capitals,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,59,,CV Varun,CB Gaffaney,PG Pathak
+,Dubai International Cricket Stadium,2020-10-24,Kings XI Punjab,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Kings XI Punjab,Kings XI Punjab,1,0,12,,CJ Jordan,AY Dandekar,PR Reiffel
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-28,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,1,,5,SA Yadav,UV Gandhe,CB Gaffaney
+,Sharjah Cricket Stadium,2020-10-09,Delhi Capitals,Rajasthan Royals,,,Rajasthan Royals,field,Delhi Capitals,Delhi Capitals,1,0,46,,R Ashwin,KN Ananthapadmanabhan,C Shamshuddin
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-07,Kolkata Knight Riders,Chennai Super Kings,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,10,,RA Tripathi,KN Ananthapadmanabhan,RK Illingworth
+,Sharjah Cricket Stadium,2020-10-31,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Sunrisers Hyderabad,0,1,,5,Sandeep Sharma,KN Ananthapadmanabhan,K Srinivasan
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-01,Mumbai Indians,Kings XI Punjab,,,Kings XI Punjab,field,Mumbai Indians,Mumbai Indians,1,0,48,,KA Pollard,VK Sharma,S Ravi
+,Dubai International Cricket Stadium,2020-09-30,Kolkata Knight Riders,Rajasthan Royals,,,Rajasthan Royals,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,37,,Shivam Mavi,KN Ananthapadmanabhan,C Shamshuddin
+Abu Dhabi,Sheikh Zayed Stadium,2020-11-02,Royal Challengers Bangalore,Delhi Capitals,,,Delhi Capitals,field,Royal Challengers Bangalore,Delhi Capitals,0,1,,6,A Nortje,CB Gaffaney,S Ravi
+Abu Dhabi,Sheikh Zayed Stadium,2020-11-01,Kings XI Punjab,Chennai Super Kings,,,Chennai Super Kings,field,Kings XI Punjab,Chennai Super Kings,0,1,,9,RD Gaikwad,PG Pathak,VK Sharma
+,Dubai International Cricket Stadium,2020-10-11,Sunrisers Hyderabad,Rajasthan Royals,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajasthan Royals,0,1,,5,R Tewatia,YC Barde,PR Reiffel
+Abu Dhabi,Sheikh Zayed Stadium,2020-09-23,Mumbai Indians,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Mumbai Indians,Mumbai Indians,1,0,49,,RG Sharma,CB Gaffaney,S Ravi
+,Sharjah Cricket Stadium,2020-10-17,Chennai Super Kings,Delhi Capitals,,,Chennai Super Kings,bat,Chennai Super Kings,Delhi Capitals,0,1,,5,S Dhawan,KN Ananthapadmanabhan,RK Illingworth
+,Dubai International Cricket Stadium,2020-09-24,Kings XI Punjab,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kings XI Punjab,Kings XI Punjab,1,0,97,,KL Rahul,AK Chaudhary,PR Reiffel
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-06,Mumbai Indians,Rajasthan Royals,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,57,,SA Yadav,VK Sharma,S Ravi
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-18,Kolkata Knight Riders,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Kolkata Knight Riders,Tied,,,,,LH Ferguson,PG Pathak,S Ravi
+,Dubai International Cricket Stadium,2020-10-04,Kings XI Punjab,Chennai Super Kings,,,Kings XI Punjab,bat,Kings XI Punjab,Chennai Super Kings,0,1,,10,SR Watson,AY Dandekar,Nitin Menon
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-03,Rajasthan Royals,Royal Challengers Bangalore,,,Rajasthan Royals,bat,Rajasthan Royals,Royal Challengers Bangalore,0,1,,8,YS Chahal,CB Gaffaney,S Ravi
+,Sharjah Cricket Stadium,2020-10-03,Delhi Capitals,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Delhi Capitals,Delhi Capitals,1,0,18,,SS Iyer,VA Kulkarni,RK Illingworth
+,Dubai International Cricket Stadium,2020-10-02,Sunrisers Hyderabad,Chennai Super Kings,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,7,,PK Garg,AK Chaudhary,PR Reiffel
+,Dubai International Cricket Stadium,2020-10-18,Mumbai Indians,Kings XI Punjab,,,Mumbai Indians,bat,Mumbai Indians,Tied,,,,,KL Rahul,Nitin Menon,PR Reiffel
+,Dubai International Cricket Stadium,2020-10-22,Rajasthan Royals,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Rajasthan Royals,Sunrisers Hyderabad,0,1,,8,MK Pandey,Nitin Menon,PR Reiffel
+,Dubai International Cricket Stadium,2020-10-05,Delhi Capitals,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Delhi Capitals,Delhi Capitals,1,0,59,,AR Patel,Nitin Menon,YC Barde
+,Sharjah Cricket Stadium,2020-10-26,Kolkata Knight Riders,Kings XI Punjab,,,Kings XI Punjab,field,Kolkata Knight Riders,Kings XI Punjab,0,1,,8,CH Gayle,KN Ananthapadmanabhan,RK Illingworth
+,Sharjah Cricket Stadium,2020-10-23,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,1,,10,TA Boult,C Shamshuddin,VA Kulkarni
+,Dubai International Cricket Stadium,2020-10-17,Rajasthan Royals,Royal Challengers Bangalore,,,Rajasthan Royals,bat,Rajasthan Royals,Royal Challengers Bangalore,0,1,,7,AB de Villiers,AK Chaudhary,Nitin Menon
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-10,Kolkata Knight Riders,Kings XI Punjab,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,2,,KD Karthik,UV Gandhe,CB Gaffaney
+,Dubai International Cricket Stadium,2020-10-27,Sunrisers Hyderabad,Delhi Capitals,,,Delhi Capitals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,88,,WP Saha,AK Chaudhary,Nitin Menon
+,Dubai International Cricket Stadium,2020-10-10,Royal Challengers Bangalore,Chennai Super Kings,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,37,,V Kohli,AK Chaudhary,PR Reiffel
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-16,Kolkata Knight Riders,Mumbai Indians,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Mumbai Indians,0,1,,8,Q de Kock,CB Gaffaney,VK Sharma
+,Sharjah Cricket Stadium,2020-09-27,Kings XI Punjab,Rajasthan Royals,,,Rajasthan Royals,field,Kings XI Punjab,Rajasthan Royals,0,1,,4,SV Samson,RK Illingworth,K Srinivasan
+,Dubai International Cricket Stadium,2020-10-13,Chennai Super Kings,Sunrisers Hyderabad,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,20,,RA Jadeja,AK Chaudhary,PR Reiffel
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-11,Delhi Capitals,Mumbai Indians,,,Delhi Capitals,bat,Delhi Capitals,Mumbai Indians,0,1,,5,Q de Kock,CB Gaffaney,S Ravi
+,Dubai International Cricket Stadium,2020-11-01,Kolkata Knight Riders,Rajasthan Royals,,,Rajasthan Royals,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,60,,PJ Cummins,Nitin Menon,PR Reiffel
+,Sharjah Cricket Stadium,2020-10-15,Royal Challengers Bangalore,Kings XI Punjab,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Kings XI Punjab,0,1,,8,KL Rahul,KN Ananthapadmanabhan,C Shamshuddin
+Abu Dhabi,Sheikh Zayed Stadium,2020-09-29,Sunrisers Hyderabad,Delhi Capitals,,,Delhi Capitals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,15,,Rashid Khan,VK Sharma,S Ravi
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-19,Chennai Super Kings,Rajasthan Royals,,,Chennai Super Kings,bat,Chennai Super Kings,Rajasthan Royals,0,1,,7,JC Buttler,CB Gaffaney,VK Sharma
+,Dubai International Cricket Stadium,2020-09-21,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,10,,YS Chahal,AY Dandekar,Nitin Menon
+,Dubai International Cricket Stadium,2020-10-31,Delhi Capitals,Mumbai Indians,,,Mumbai Indians,field,Delhi Capitals,Mumbai Indians,0,1,,9,Ishan Kishan,YC Barde,PR Reiffel
+,Dubai International Cricket Stadium,2020-10-29,Kolkata Knight Riders,Chennai Super Kings,,,Chennai Super Kings,field,Kolkata Knight Riders,Chennai Super Kings,0,1,,6,RD Gaikwad,C Shamshuddin,RK Illingworth
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-30,Kings XI Punjab,Rajasthan Royals,,,Rajasthan Royals,field,Kings XI Punjab,Rajasthan Royals,0,1,,7,BA Stokes,CB Gaffaney,S Ravi
+,Sharjah Cricket Stadium,2020-10-04,Mumbai Indians,Sunrisers Hyderabad,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,34,,TA Boult,KN Ananthapadmanabhan,RK Illingworth
+,Dubai International Cricket Stadium,2020-09-25,Delhi Capitals,Chennai Super Kings,,,Chennai Super Kings,field,Delhi Capitals,Delhi Capitals,1,0,44,,PP Shaw,KN Ananthapadmanabhan,RK Illingworth
+,Sharjah Cricket Stadium,2020-10-12,Royal Challengers Bangalore,Kolkata Knight Riders,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,82,,AB de Villiers,RK Illingworth,K Srinivasan
+Abu Dhabi,Sheikh Zayed Stadium,2020-10-25,Mumbai Indians,Rajasthan Royals,,,Mumbai Indians,bat,Mumbai Indians,Rajasthan Royals,0,1,,8,BA Stokes,UV Gandhe,VK Sharma
+,Dubai International Cricket Stadium,2020-10-08,Sunrisers Hyderabad,Kings XI Punjab,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,69,,JM Bairstow,AK Chaudhary,Nitin Menon
+,Dubai International Cricket Stadium,2020-10-14,Delhi Capitals,Rajasthan Royals,,,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,1,0,13,,A Nortje,AK Chaudhary,Nitin Menon
+,Dubai International Cricket Stadium,2020-10-25,Royal Challengers Bangalore,Chennai Super Kings,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Chennai Super Kings,0,1,,8,RD Gaikwad,C Shamshuddin,RK Illingworth
+Abu Dhabi,Sheikh Zayed Stadium,2020-09-26,Sunrisers Hyderabad,Kolkata Knight Riders,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Kolkata Knight Riders,0,1,,7,Shubman Gill,CB Gaffaney,VK Sharma
+,Dubai International Cricket Stadium,2020-10-20,Delhi Capitals,Kings XI Punjab,,,Delhi Capitals,bat,Delhi Capitals,Kings XI Punjab,0,1,,5,S Dhawan,C Shamshuddin,RK Illingworth
+,Dubai International Cricket Stadium,2020-09-28,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Tied,,,,,AB de Villiers,Nitin Menon,PR Reiffel
+,Dubai International Cricket Stadium,2020-11-05,Mumbai Indians,Delhi Capitals,,,Delhi Capitals,field,Mumbai Indians,Mumbai Indians,1,0,57,,JJ Bumrah,CB Gaffaney,Nitin Menon
+Abu Dhabi,Sheikh Zayed Stadium,2020-11-06,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Sunrisers Hyderabad,0,1,,6,KS Williamson,PR Reiffel,S Ravi
+Abu Dhabi,Sheikh Zayed Stadium,2020-11-08,Delhi Capitals,Sunrisers Hyderabad,,,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,1,0,17,,MP Stoinis,PR Reiffel,S Ravi
+,Dubai International Cricket Stadium,2020-11-10,Delhi Capitals,Mumbai Indians,,,Delhi Capitals,bat,Delhi Capitals,Mumbai Indians,0,1,,5,TA Boult,CB Gaffaney,Nitin Menon
+Bangalore,M Chinnaswamy Stadium,2008-04-18,Royal Challengers Bangalore,Kolkata Knight Riders,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,140,,BB McCullum,Asad Rauf,RE Koertzen
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2008-04-19,Kings XI Punjab,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,33,,MEK Hussey,MR Benson,SL Shastri
+Delhi,Feroz Shah Kotla,2008-04-19,Delhi Daredevils,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Delhi Daredevils,0,1,,9,MF Maharoof,Aleem Dar,GA Pratapkumar
+Mumbai,Wankhede Stadium,2008-04-20,Mumbai Indians,Royal Challengers Bangalore,,,Mumbai Indians,bat,Mumbai Indians,Royal Challengers Bangalore,0,1,,5,MV Boucher,SJ Davis,DJ Harper
+Kolkata,Eden Gardens,2008-04-20,Kolkata Knight Riders,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Kolkata Knight Riders,0,1,,5,DJ Hussey,BF Bowden,K Hariharan
+Jaipur,Sawai Mansingh Stadium,2008-04-21,Rajasthan Royals,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Rajasthan Royals,0,1,,6,SR Watson,Aleem Dar,RB Tiffin
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2008-04-22,Deccan Chargers,Delhi Daredevils,,,Deccan Chargers,bat,Deccan Chargers,Delhi Daredevils,0,1,,9,V Sehwag,IL Howell,AM Saheba
+Chennai,"MA Chidambaram Stadium, Chepauk",2008-04-23,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,field,Chennai Super Kings,Chennai Super Kings,1,0,6,,ML Hayden,DJ Harper,GA Pratapkumar
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2008-04-24,Deccan Chargers,Rajasthan Royals,,,Rajasthan Royals,field,Deccan Chargers,Rajasthan Royals,0,1,,3,YK Pathan,Asad Rauf,MR Benson
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2008-04-25,Kings XI Punjab,Mumbai Indians,,,Mumbai Indians,field,Kings XI Punjab,Kings XI Punjab,1,0,66,,KC Sangakkara,Aleem Dar,AM Saheba
+Bangalore,M Chinnaswamy Stadium,2008-04-26,Royal Challengers Bangalore,Rajasthan Royals,,,Rajasthan Royals,field,Royal Challengers Bangalore,Rajasthan Royals,0,1,,7,SR Watson,MR Benson,IL Howell
+Chennai,"MA Chidambaram Stadium, Chepauk",2008-04-26,Chennai Super Kings,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,1,,9,JDP Oram,BF Bowden,AV Jayaprakash
+Mumbai,Dr DY Patil Sports Academy,2008-04-27,Mumbai Indians,Deccan Chargers,,,Deccan Chargers,field,Mumbai Indians,Deccan Chargers,0,1,,10,AC Gilchrist,Asad Rauf,SL Shastri
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2008-04-27,Kings XI Punjab,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Kings XI Punjab,0,1,,4,SM Katich,RE Koertzen,I Shivram
+Bangalore,M Chinnaswamy Stadium,2008-04-28,Royal Challengers Bangalore,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,13,,MS Dhoni,BR Doctrove,RB Tiffin
+Kolkata,Eden Gardens,2008-04-29,Kolkata Knight Riders,Mumbai Indians,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Mumbai Indians,0,1,,7,ST Jayasuriya,BF Bowden,AV Jayaprakash
+Delhi,Feroz Shah Kotla,2008-04-30,Delhi Daredevils,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Delhi Daredevils,Delhi Daredevils,1,0,10,,GD McGrath,Aleem Dar,I Shivram
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2008-05-01,Deccan Chargers,Kings XI Punjab,,,Kings XI Punjab,field,Deccan Chargers,Kings XI Punjab,0,1,,7,SE Marsh,BR Doctrove,RB Tiffin
+Jaipur,Sawai Mansingh Stadium,2008-05-01,Rajasthan Royals,Kolkata Knight Riders,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,45,,SA Asnodkar,RE Koertzen,GA Pratapkumar
+Chennai,"MA Chidambaram Stadium, Chepauk",2008-05-02,Chennai Super Kings,Delhi Daredevils,,,Chennai Super Kings,bat,Chennai Super Kings,Delhi Daredevils,0,1,,8,V Sehwag,BF Bowden,K Hariharan
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2008-05-25,Deccan Chargers,Royal Challengers Bangalore,,,Deccan Chargers,bat,Deccan Chargers,Royal Challengers Bangalore,0,1,,5,R Vinay Kumar,Asad Rauf,RE Koertzen
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2008-05-03,Kings XI Punjab,Kolkata Knight Riders,,,Kings XI Punjab,bat,Kings XI Punjab,Kings XI Punjab,1,0,9,,IK Pathan,DJ Harper,I Shivram
+Mumbai,Dr DY Patil Sports Academy,2008-05-04,Mumbai Indians,Delhi Daredevils,,,Delhi Daredevils,field,Mumbai Indians,Mumbai Indians,1,0,29,,SM Pollock,IL Howell,RE Koertzen
+Jaipur,Sawai Mansingh Stadium,2008-05-04,Rajasthan Royals,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Rajasthan Royals,0,1,,8,Sohail Tanvir,Asad Rauf,AV Jayaprakash
+Bangalore,M Chinnaswamy Stadium,2008-05-05,Royal Challengers Bangalore,Kings XI Punjab,,,Kings XI Punjab,field,Royal Challengers Bangalore,Kings XI Punjab,0,1,,6,S Sreesanth,SJ Davis,BR Doctrove
+Chennai,"MA Chidambaram Stadium, Chepauk",2008-05-06,Chennai Super Kings,Deccan Chargers,,,Deccan Chargers,field,Chennai Super Kings,Deccan Chargers,0,1,,7,AC Gilchrist,MR Benson,RB Tiffin
+Mumbai,Dr DY Patil Sports Academy,2008-05-07,Mumbai Indians,Rajasthan Royals,,,Mumbai Indians,field,Rajasthan Royals,Mumbai Indians,0,1,,7,A Nehra,DJ Harper,RE Koertzen
+Delhi,Feroz Shah Kotla,2008-05-08,Delhi Daredevils,Chennai Super Kings,,,Chennai Super Kings,field,Delhi Daredevils,Chennai Super Kings,0,1,,4,MS Dhoni,Aleem Dar,RB Tiffin
+Kolkata,Eden Gardens,2008-05-08,Kolkata Knight Riders,Royal Challengers Bangalore,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,5,,SC Ganguly,Asad Rauf,IL Howell
+Jaipur,Sawai Mansingh Stadium,2008-05-09,Rajasthan Royals,Deccan Chargers,,,Rajasthan Royals,field,Deccan Chargers,Rajasthan Royals,0,1,,8,YK Pathan,MR Benson,AM Saheba
+Bangalore,M Chinnaswamy Stadium,2008-05-28,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,1,,9,CRD Fernando,BF Bowden,AV Jayaprakash
+Chennai,"MA Chidambaram Stadium, Chepauk",2008-05-10,Chennai Super Kings,Kings XI Punjab,,,Kings XI Punjab,field,Chennai Super Kings,Chennai Super Kings,1,0,18,,L Balaji,AV Jayaprakash,BG Jerling
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2008-05-11,Deccan Chargers,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,23,,SC Ganguly,IL Howell,AM Saheba
+Jaipur,Sawai Mansingh Stadium,2008-05-11,Rajasthan Royals,Delhi Daredevils,,,Rajasthan Royals,field,Delhi Daredevils,Rajasthan Royals,0,1,,3,SR Watson,SJ Davis,RE Koertzen
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2008-05-12,Kings XI Punjab,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Kings XI Punjab,0,1,,9,SE Marsh,BR Doctrove,I Shivram
+Kolkata,Eden Gardens,2008-05-13,Kolkata Knight Riders,Delhi Daredevils,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,23,,Shoaib Akhtar,Asad Rauf,IL Howell
+Mumbai,Wankhede Stadium,2008-05-14,Mumbai Indians,Chennai Super Kings,,,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,1,,9,ST Jayasuriya,BR Doctrove,AM Saheba
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2008-05-28,Kings XI Punjab,Rajasthan Royals,,,Rajasthan Royals,field,Kings XI Punjab,Kings XI Punjab,1,0,41,,SE Marsh,SJ Davis,K Hariharan
+Delhi,Feroz Shah Kotla,2008-05-15,Delhi Daredevils,Deccan Chargers,,,Deccan Chargers,field,Delhi Daredevils,Delhi Daredevils,1,0,12,,A Mishra,BG Jerling,GA Pratapkumar
+Mumbai,Wankhede Stadium,2008-05-16,Mumbai Indians,Kolkata Knight Riders,,,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,1,,8,SM Pollock,BR Doctrove,DJ Harper
+Delhi,Feroz Shah Kotla,2008-05-17,Delhi Daredevils,Kings XI Punjab,,,Delhi Daredevils,bat,Delhi Daredevils,Kings XI Punjab,1,0,6,,DPMD Jayawardene,AV Jayaprakash,RE Koertzen
+Jaipur,Sawai Mansingh Stadium,2008-05-17,Rajasthan Royals,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Rajasthan Royals,Rajasthan Royals,1,0,65,,GC Smith,BF Bowden,SL Shastri
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2008-05-18,Deccan Chargers,Mumbai Indians,,,Deccan Chargers,field,Mumbai Indians,Mumbai Indians,1,0,25,,DJ Bravo,BR Doctrove,DJ Harper
+Kolkata,Eden Gardens,2008-05-18,Kolkata Knight Riders,Chennai Super Kings,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,1,0,3,,M Ntini,Asad Rauf,K Hariharan
+Bangalore,M Chinnaswamy Stadium,2008-05-19,Royal Challengers Bangalore,Delhi Daredevils,,,Delhi Daredevils,field,Royal Challengers Bangalore,Delhi Daredevils,0,1,,5,SP Goswami,SJ Davis,GA Pratapkumar
+Kolkata,Eden Gardens,2008-05-20,Kolkata Knight Riders,Rajasthan Royals,,,Rajasthan Royals,field,Kolkata Knight Riders,Rajasthan Royals,0,1,,6,YK Pathan,BG Jerling,RE Koertzen
+Mumbai,Wankhede Stadium,2008-05-21,Mumbai Indians,Kings XI Punjab,,,Mumbai Indians,field,Kings XI Punjab,Kings XI Punjab,1,0,1,,SE Marsh,BF Bowden,GA Pratapkumar
+Chennai,"MA Chidambaram Stadium, Chepauk",2008-05-21,Chennai Super Kings,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,14,,A Kumble,DJ Harper,I Shivram
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2008-05-23,Kings XI Punjab,Deccan Chargers,,,Kings XI Punjab,field,Deccan Chargers,Kings XI Punjab,0,1,,6,SE Marsh,Asad Rauf,SJ Davis
+Delhi,Feroz Shah Kotla,2008-05-24,Delhi Daredevils,Mumbai Indians,,,Delhi Daredevils,field,Mumbai Indians,Delhi Daredevils,0,1,,5,KD Karthik,BF Bowden,K Hariharan
+Chennai,"MA Chidambaram Stadium, Chepauk",2008-05-24,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,10,,JA Morkel,DJ Harper,SL Shastri
+Bangalore,M Chinnaswamy Stadium,2008-05-03,Royal Challengers Bangalore,Deccan Chargers,,,Deccan Chargers,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,3,,P Kumar,BR Doctrove,SL Shastri
+Kolkata,Eden Gardens,2008-05-25,Kolkata Knight Riders,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Kolkata Knight Riders,0,1,,3,Umar Gul,SJ Davis,I Shivram
+Jaipur,Sawai Mansingh Stadium,2008-05-26,Rajasthan Royals,Mumbai Indians,,,Rajasthan Royals,field,Mumbai Indians,Rajasthan Royals,0,1,,5,Sohail Tanvir,BF Bowden,K Hariharan
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2008-05-27,Deccan Chargers,Chennai Super Kings,,,Deccan Chargers,bat,Deccan Chargers,Chennai Super Kings,0,1,,7,SK Raina,BG Jerling,AM Saheba
+Mumbai,Wankhede Stadium,2008-05-30,Delhi Daredevils,Rajasthan Royals,,,Delhi Daredevils,field,Rajasthan Royals,Rajasthan Royals,1,0,105,,SR Watson,BF Bowden,RE Koertzen
+Mumbai,Wankhede Stadium,2008-05-31,Chennai Super Kings,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Chennai Super Kings,0,1,,9,M Ntini,Asad Rauf,DJ Harper
+Mumbai,Dr DY Patil Sports Academy,2008-06-01,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,field,Chennai Super Kings,Rajasthan Royals,0,1,,3,YK Pathan,BF Bowden,RE Koertzen
+Cape Town,Newlands,2009-04-18,Chennai Super Kings,Mumbai Indians,,,Chennai Super Kings,field,Mumbai Indians,Mumbai Indians,1,0,19,,SR Tendulkar,BR Doctrove,K Hariharan
+Cape Town,Newlands,2009-04-18,Royal Challengers Bangalore,Rajasthan Royals,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,75,,R Dravid,BR Doctrove,RB Tiffin
+Cape Town,Newlands,2009-04-19,Delhi Daredevils,Kings XI Punjab,,,Delhi Daredevils,field,Kings XI Punjab,Delhi Daredevils,0,1,,10,DL Vettori,MR Benson,SD Ranade
+Cape Town,Newlands,2009-04-19,Deccan Chargers,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Deccan Chargers,0,1,,8,RP Singh,MR Benson,BR Doctrove
+Port Elizabeth,St George's Park,2009-04-20,Royal Challengers Bangalore,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,92,,M Muralitharan,BG Jerling,SJA Taufel
+Durban,Kingsmead,2009-04-21,Kings XI Punjab,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Kings XI Punjab,Kolkata Knight Riders,1,0,11,,CH Gayle,DJ Harper,SD Ranade
+Cape Town,Newlands,2009-04-22,Royal Challengers Bangalore,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,24,,AC Gilchrist,M Erasmus,AM Saheba
+Durban,Kingsmead,2009-04-23,Chennai Super Kings,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,9,,AB de Villiers,BR Doctrove,SJA Taufel
+Cape Town,Newlands,2009-04-23,Kolkata Knight Riders,Rajasthan Royals,,,Kolkata Knight Riders,field,Rajasthan Royals,Tied,,,,,YK Pathan,MR Benson,M Erasmus
+Durban,Kingsmead,2009-04-24,Royal Challengers Bangalore,Kings XI Punjab,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Kings XI Punjab,0,1,,7,RS Bopara,BR Doctrove,TH Wijewardene
+Durban,Kingsmead,2009-04-25,Deccan Chargers,Mumbai Indians,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,12,,PP Ojha,HDPK Dharmasena,SJA Taufel
+Port Elizabeth,St George's Park,2009-04-26,Royal Challengers Bangalore,Delhi Daredevils,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Delhi Daredevils,0,1,,6,TM Dilshan,S Asnani,BG Jerling
+Cape Town,Newlands,2009-04-26,Kings XI Punjab,Rajasthan Royals,,,Kings XI Punjab,bat,Kings XI Punjab,Kings XI Punjab,1,0,27,,KC Sangakkara,M Erasmus,K Hariharan
+Durban,Kingsmead,2009-04-27,Chennai Super Kings,Deccan Chargers,,,Deccan Chargers,field,Chennai Super Kings,Deccan Chargers,0,1,,6,HH Gibbs,IL Howell,TH Wijewardene
+Port Elizabeth,St George's Park,2009-04-27,Kolkata Knight Riders,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,92,,SR Tendulkar,BG Jerling,RB Tiffin
+Centurion,SuperSport Park,2009-04-28,Delhi Daredevils,Rajasthan Royals,,,Delhi Daredevils,bat,Delhi Daredevils,Rajasthan Royals,0,1,,5,YK Pathan,GAV Baxter,RE Koertzen
+Durban,Kingsmead,2009-04-29,Royal Challengers Bangalore,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,5,MV Boucher,MR Benson,TH Wijewardene
+Durban,Kingsmead,2009-04-29,Kings XI Punjab,Mumbai Indians,,,Kings XI Punjab,bat,Kings XI Punjab,Kings XI Punjab,1,0,3,,KC Sangakkara,MR Benson,SL Shastri
+Centurion,SuperSport Park,2009-04-30,Deccan Chargers,Delhi Daredevils,,,Delhi Daredevils,field,Deccan Chargers,Delhi Daredevils,0,1,,6,DP Nannes,GAV Baxter,AM Saheba
+Centurion,SuperSport Park,2009-04-30,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,field,Chennai Super Kings,Chennai Super Kings,1,0,38,,SK Raina,GAV Baxter,RE Koertzen
+East London,Buffalo Park,2009-05-01,Kolkata Knight Riders,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,9,,JP Duminy,M Erasmus,SK Tarapore
+Durban,Kingsmead,2009-05-01,Royal Challengers Bangalore,Kings XI Punjab,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,8,,Yuvraj Singh,HDPK Dharmasena,S Ravi
+Port Elizabeth,St George's Park,2009-05-02,Deccan Chargers,Rajasthan Royals,,,Deccan Chargers,bat,Deccan Chargers,Rajasthan Royals,0,1,,3,YK Pathan,S Asnani,BG Jerling
+Johannesburg,New Wanderers Stadium,2009-05-02,Chennai Super Kings,Delhi Daredevils,,,Delhi Daredevils,field,Chennai Super Kings,Chennai Super Kings,1,0,18,,SB Jakati,DJ Harper,RE Koertzen
+Port Elizabeth,St George's Park,2009-05-03,Kings XI Punjab,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kings XI Punjab,0,1,,6,DPMD Jayawardene,S Asnani,MR Benson
+Johannesburg,New Wanderers Stadium,2009-05-03,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Royal Challengers Bangalore,0,1,,9,JH Kallis,RE Koertzen,TH Wijewardene
+East London,Buffalo Park,2009-05-04,Chennai Super Kings,Deccan Chargers,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,78,,MS Dhoni,BR Doctrove,M Erasmus
+Durban,Kingsmead,2009-05-05,Kings XI Punjab,Rajasthan Royals,,,Kings XI Punjab,field,Rajasthan Royals,Rajasthan Royals,1,0,78,,GC Smith,SS Hazare,IL Howell
+Durban,Kingsmead,2009-05-05,Delhi Daredevils,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Delhi Daredevils,0,1,,9,G Gambhir,GAV Baxter,IL Howell
+Centurion,SuperSport Park,2009-05-06,Deccan Chargers,Mumbai Indians,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,19,,RG Sharma,MR Benson,HDPK Dharmasena
+Centurion,SuperSport Park,2009-05-07,Royal Challengers Bangalore,Rajasthan Royals,,,Rajasthan Royals,field,Royal Challengers Bangalore,Rajasthan Royals,0,1,,7,A Singh,K Hariharan,DJ Harper
+Centurion,SuperSport Park,2009-05-07,Chennai Super Kings,Kings XI Punjab,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,12,,ML Hayden,DJ Harper,TH Wijewardene
+East London,Buffalo Park,2009-05-08,Delhi Daredevils,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Delhi Daredevils,0,1,,7,A Nehra,M Erasmus,SK Tarapore
+Kimberley,De Beers Diamond Oval,2009-05-09,Deccan Chargers,Kings XI Punjab,,,Kings XI Punjab,field,Deccan Chargers,Kings XI Punjab,0,1,,3,DPMD Jayawardene,GAV Baxter,AM Saheba
+Kimberley,De Beers Diamond Oval,2009-05-09,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Chennai Super Kings,0,1,,7,S Badrinath,GAV Baxter,HDPK Dharmasena
+Port Elizabeth,St George's Park,2009-05-10,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,16,,JP Duminy,BR Doctrove,BG Jerling
+Johannesburg,New Wanderers Stadium,2009-05-10,Delhi Daredevils,Kolkata Knight Riders,,,Delhi Daredevils,field,Kolkata Knight Riders,Delhi Daredevils,0,1,,7,A Mishra,SL Shastri,RB Tiffin
+Kimberley,De Beers Diamond Oval,2009-05-11,Deccan Chargers,Rajasthan Royals,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,53,,DR Smith,GAV Baxter,HDPK Dharmasena
+Centurion,SuperSport Park,2009-05-12,Royal Challengers Bangalore,Kolkata Knight Riders,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,6,LRPL Taylor,M Erasmus,SS Hazare
+Centurion,SuperSport Park,2009-05-12,Kings XI Punjab,Mumbai Indians,,,Kings XI Punjab,bat,Kings XI Punjab,Mumbai Indians,0,1,,8,Harbhajan Singh,SS Hazare,RE Koertzen
+Durban,Kingsmead,2009-05-13,Deccan Chargers,Delhi Daredevils,,,Deccan Chargers,field,Delhi Daredevils,Delhi Daredevils,1,0,12,,R Bhatia,DJ Harper,SL Shastri
+Durban,Kingsmead,2009-05-14,Royal Challengers Bangalore,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Royal Challengers Bangalore,0,1,,2,LRPL Taylor,BR Doctrove,DJ Harper
+Durban,Kingsmead,2009-05-14,Mumbai Indians,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,2,,SK Warne,BR Doctrove,DJ Harper
+Bloemfontein,OUTsurance Oval,2009-05-15,Delhi Daredevils,Kings XI Punjab,,,Kings XI Punjab,field,Delhi Daredevils,Kings XI Punjab,0,1,,6,B Lee,HDPK Dharmasena,IL Howell
+Port Elizabeth,St George's Park,2009-05-16,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Chennai Super Kings,0,1,,7,ML Hayden,SK Tarapore,SJA Taufel
+Johannesburg,New Wanderers Stadium,2009-05-16,Deccan Chargers,Kolkata Knight Riders,,,Deccan Chargers,field,Kolkata Knight Riders,Deccan Chargers,0,1,,6,RG Sharma,RE Koertzen,S Ravi
+Johannesburg,New Wanderers Stadium,2009-05-17,Deccan Chargers,Kings XI Punjab,,,Deccan Chargers,field,Kings XI Punjab,Kings XI Punjab,1,0,1,,Yuvraj Singh,S Ravi,RB Tiffin
+Bloemfontein,OUTsurance Oval,2009-05-17,Delhi Daredevils,Rajasthan Royals,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,14,,AB de Villiers,SS Hazare,IL Howell
+Centurion,SuperSport Park,2009-05-18,Chennai Super Kings,Kolkata Knight Riders,,,Chennai Super Kings,bat,Chennai Super Kings,Kolkata Knight Riders,0,1,,7,BJ Hodge,SJA Taufel,RB Tiffin
+Johannesburg,New Wanderers Stadium,2009-05-19,Royal Challengers Bangalore,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Royal Challengers Bangalore,0,1,,7,JH Kallis,IL Howell,RB Tiffin
+Durban,Kingsmead,2009-05-20,Kolkata Knight Riders,Rajasthan Royals,,,Kolkata Knight Riders,field,Rajasthan Royals,Kolkata Knight Riders,0,1,,4,LR Shukla,BG Jerling,SJA Taufel
+Durban,Kingsmead,2009-05-20,Chennai Super Kings,Kings XI Punjab,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,24,,M Muralitharan,BG Jerling,SJA Taufel
+Centurion,SuperSport Park,2009-05-21,Delhi Daredevils,Mumbai Indians,,,Delhi Daredevils,field,Mumbai Indians,Delhi Daredevils,0,1,,4,V Sehwag,IL Howell,S Ravi
+Centurion,SuperSport Park,2009-05-21,Royal Challengers Bangalore,Deccan Chargers,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,12,,MK Pandey,IL Howell,S Ravi
+Centurion,SuperSport Park,2009-05-22,Delhi Daredevils,Deccan Chargers,,,Deccan Chargers,field,Delhi Daredevils,Deccan Chargers,0,1,,6,AC Gilchrist,BR Doctrove,DJ Harper
+Johannesburg,New Wanderers Stadium,2009-05-23,Royal Challengers Bangalore,Chennai Super Kings,,,Royal Challengers Bangalore,field,Chennai Super Kings,Royal Challengers Bangalore,0,1,,6,MK Pandey,RE Koertzen,SJA Taufel
+Johannesburg,New Wanderers Stadium,2009-05-24,Royal Challengers Bangalore,Deccan Chargers,,,Royal Challengers Bangalore,field,Deccan Chargers,Deccan Chargers,1,0,6,,A Kumble,RE Koertzen,SJA Taufel
+Mumbai,Dr DY Patil Sports Academy,2010-03-12,Deccan Chargers,Kolkata Knight Riders,,,Deccan Chargers,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,11,,AD Mathews,RE Koertzen,RB Tiffin
+Mumbai,Brabourne Stadium,2010-03-13,Mumbai Indians,Rajasthan Royals,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,4,,YK Pathan,RE Koertzen,RB Tiffin
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2010-03-13,Kings XI Punjab,Delhi Daredevils,,,Delhi Daredevils,field,Kings XI Punjab,Delhi Daredevils,0,1,,5,G Gambhir,BR Doctrove,S Ravi
+Kolkata,Eden Gardens,2010-03-14,Kolkata Knight Riders,Royal Challengers Bangalore,,,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,1,,7,MK Tiwary,HDPK Dharmasena,AM Saheba
+Chennai,"MA Chidambaram Stadium, Chepauk",2010-03-14,Chennai Super Kings,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,31,,WPUJC Vaas,K Hariharan,DJ Harper
+Ahmedabad,"Sardar Patel Stadium, Motera",2010-03-15,Rajasthan Royals,Delhi Daredevils,,,Delhi Daredevils,field,Rajasthan Royals,Delhi Daredevils,0,1,,6,V Sehwag,BG Jerling,RE Koertzen
+Bangalore,M Chinnaswamy Stadium,2010-03-16,Royal Challengers Bangalore,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Royal Challengers Bangalore,0,1,,8,JH Kallis,S Das,DJ Harper
+Kolkata,Eden Gardens,2010-03-16,Kolkata Knight Riders,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,55,,MS Dhoni,HDPK Dharmasena,AM Saheba
+Delhi,Feroz Shah Kotla,2010-03-17,Delhi Daredevils,Mumbai Indians,,,Delhi Daredevils,field,Mumbai Indians,Mumbai Indians,1,0,98,,SR Tendulkar,BR Doctrove,SK Tarapore
+Bangalore,M Chinnaswamy Stadium,2010-03-18,Royal Challengers Bangalore,Rajasthan Royals,,,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,1,,10,JH Kallis,K Hariharan,DJ Harper
+Delhi,Feroz Shah Kotla,2010-03-19,Delhi Daredevils,Chennai Super Kings,,,Delhi Daredevils,bat,Delhi Daredevils,Chennai Super Kings,0,1,,5,ML Hayden,BR Doctrove,SK Tarapore
+Cuttack,Barabati Stadium,2010-03-19,Deccan Chargers,Kings XI Punjab,,,Kings XI Punjab,field,Deccan Chargers,Deccan Chargers,1,0,6,,A Symonds,BF Bowden,M Erasmus
+Ahmedabad,"Sardar Patel Stadium, Motera",2010-03-20,Rajasthan Royals,Kolkata Knight Riders,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,34,,AA Jhunjhunwala,RE Koertzen,RB Tiffin
+Mumbai,Brabourne Stadium,2010-03-20,Mumbai Indians,Royal Challengers Bangalore,,,Mumbai Indians,bat,Mumbai Indians,Royal Challengers Bangalore,0,1,,7,JH Kallis,HDPK Dharmasena,SS Hazare
+Cuttack,Barabati Stadium,2010-03-21,Deccan Chargers,Delhi Daredevils,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,10,,A Symonds,BF Bowden,M Erasmus
+Chennai,"MA Chidambaram Stadium, Chepauk",2010-03-21,Chennai Super Kings,Kings XI Punjab,,,Chennai Super Kings,field,Kings XI Punjab,Tied,,,,,J Theron,K Hariharan,DJ Harper
+Mumbai,Brabourne Stadium,2010-03-22,Mumbai Indians,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Mumbai Indians,0,1,,7,SR Tendulkar,SS Hazare,SJA Taufel
+Bangalore,M Chinnaswamy Stadium,2010-03-23,Royal Challengers Bangalore,Chennai Super Kings,,,Chennai Super Kings,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,36,,RV Uthappa,RE Koertzen,RB Tiffin
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2010-03-24,Kings XI Punjab,Rajasthan Royals,,,Kings XI Punjab,field,Rajasthan Royals,Rajasthan Royals,1,0,31,,AC Voges,BR Doctrove,SK Tarapore
+Mumbai,Brabourne Stadium,2010-03-25,Mumbai Indians,Chennai Super Kings,,,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,1,,5,SR Tendulkar,BF Bowden,AM Saheba
+Ahmedabad,"Sardar Patel Stadium, Motera",2010-03-26,Rajasthan Royals,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Rajasthan Royals,0,1,,8,YK Pathan,HDPK Dharmasena,SJA Taufel
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2010-03-27,Kings XI Punjab,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,39,,MK Tiwary,BR Doctrove,S Ravi
+Bangalore,M Chinnaswamy Stadium,2010-03-25,Royal Challengers Bangalore,Delhi Daredevils,,,Royal Challengers Bangalore,field,Delhi Daredevils,Delhi Daredevils,1,0,17,,KM Jadhav,BG Jerling,RE Koertzen
+Ahmedabad,"Sardar Patel Stadium, Motera",2010-03-28,Rajasthan Royals,Chennai Super Kings,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,17,,NV Ojha,SS Hazare,SJA Taufel
+Mumbai,Dr DY Patil Sports Academy,2010-03-28,Deccan Chargers,Mumbai Indians,,,Deccan Chargers,field,Mumbai Indians,Mumbai Indians,1,0,41,,Harbhajan Singh,S Das,K Hariharan
+Delhi,Feroz Shah Kotla,2010-03-29,Delhi Daredevils,Kolkata Knight Riders,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,40,,DA Warner,SS Hazare,SJA Taufel
+Mumbai,Brabourne Stadium,2010-03-30,Mumbai Indians,Kings XI Punjab,,,Mumbai Indians,field,Kings XI Punjab,Mumbai Indians,0,1,,4,SL Malinga,BR Doctrove,SK Tarapore
+Chennai,"MA Chidambaram Stadium, Chepauk",2010-03-31,Chennai Super Kings,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Chennai Super Kings,0,1,,5,M Vijay,BG Jerling,RE Koertzen
+Delhi,Feroz Shah Kotla,2010-03-31,Delhi Daredevils,Rajasthan Royals,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,67,,KD Karthik,HDPK Dharmasena,SJA Taufel
+Kolkata,Eden Gardens,2010-04-01,Kolkata Knight Riders,Deccan Chargers,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,24,,SC Ganguly,K Hariharan,DJ Harper
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2010-04-02,Kings XI Punjab,Royal Challengers Bangalore,,,Kings XI Punjab,bat,Kings XI Punjab,Royal Challengers Bangalore,0,1,,6,KP Pietersen,BF Bowden,M Erasmus
+Chennai,"MA Chidambaram Stadium, Chepauk",2010-04-03,Chennai Super Kings,Rajasthan Royals,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,23,,M Vijay,RE Koertzen,RB Tiffin
+Mumbai,Brabourne Stadium,2010-04-03,Mumbai Indians,Deccan Chargers,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,63,,AT Rayudu,BR Doctrove,S Ravi
+Kolkata,Eden Gardens,2010-04-04,Kolkata Knight Riders,Kings XI Punjab,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kings XI Punjab,0,1,,8,DPMD Jayawardene,S Asnani,DJ Harper
+Delhi,Feroz Shah Kotla,2010-04-04,Delhi Daredevils,Royal Challengers Bangalore,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,37,,PD Collingwood,BF Bowden,M Erasmus
+Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",2010-04-05,Deccan Chargers,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,2,,SK Warne,HDPK Dharmasena,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2010-04-06,Chennai Super Kings,Mumbai Indians,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,24,,SK Raina,S Asnani,DJ Harper
+Jaipur,Sawai Mansingh Stadium,2010-04-07,Rajasthan Royals,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Rajasthan Royals,0,1,,9,MJ Lumb,S Ravi,SK Tarapore
+Kolkata,Eden Gardens,2010-04-07,Kolkata Knight Riders,Delhi Daredevils,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,14,,SC Ganguly,BG Jerling,RE Koertzen
+Bangalore,M Chinnaswamy Stadium,2010-04-08,Royal Challengers Bangalore,Deccan Chargers,,,Deccan Chargers,field,Royal Challengers Bangalore,Deccan Chargers,0,1,,7,TL Suman,S Asnani,DJ Harper
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2010-04-09,Kings XI Punjab,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Kings XI Punjab,0,1,,6,KC Sangakkara,M Erasmus,AM Saheba
+Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",2010-04-10,Deccan Chargers,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Deccan Chargers,0,1,,6,RJ Harris,HDPK Dharmasena,SJA Taufel
+Bangalore,M Chinnaswamy Stadium,2010-04-10,Royal Challengers Bangalore,Kolkata Knight Riders,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,7,R Vinay Kumar,K Hariharan,DJ Harper
+Delhi,Feroz Shah Kotla,2010-04-11,Delhi Daredevils,Kings XI Punjab,,,Delhi Daredevils,bat,Delhi Daredevils,Kings XI Punjab,0,1,,7,PP Chawla,BF Bowden,AM Saheba
+Jaipur,Sawai Mansingh Stadium,2010-04-11,Rajasthan Royals,Mumbai Indians,,,Rajasthan Royals,field,Mumbai Indians,Mumbai Indians,1,0,37,,SR Tendulkar,BR Doctrove,SK Tarapore
+Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",2010-04-12,Deccan Chargers,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Deccan Chargers,Deccan Chargers,1,0,13,,Harmeet Singh,RE Koertzen,RB Tiffin
+Mumbai,Brabourne Stadium,2010-04-13,Mumbai Indians,Delhi Daredevils,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,39,,KA Pollard,S Asnani,DJ Harper
+Chennai,"MA Chidambaram Stadium, Chepauk",2010-04-13,Chennai Super Kings,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,1,,9,R Ashwin,SS Hazare,SJA Taufel
+Jaipur,Sawai Mansingh Stadium,2010-04-14,Rajasthan Royals,Royal Challengers Bangalore,,,Rajasthan Royals,bat,Rajasthan Royals,Royal Challengers Bangalore,0,1,,5,KP Pietersen,BR Doctrove,S Ravi
+Chennai,"MA Chidambaram Stadium, Chepauk",2010-04-15,Chennai Super Kings,Delhi Daredevils,,,Chennai Super Kings,bat,Chennai Super Kings,Delhi Daredevils,0,1,,6,G Gambhir,HDPK Dharmasena,SS Hazare
+Dharamsala,Himachal Pradesh Cricket Association Stadium,2010-04-16,Kings XI Punjab,Deccan Chargers,,,Deccan Chargers,field,Kings XI Punjab,Deccan Chargers,0,1,,5,RG Sharma,M Erasmus,AM Saheba
+Bangalore,M Chinnaswamy Stadium,2010-04-17,Royal Challengers Bangalore,Mumbai Indians,,,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,1,0,57,,R McLaren,HDPK Dharmasena,SJA Taufel
+Kolkata,Eden Gardens,2010-04-17,Kolkata Knight Riders,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Kolkata Knight Riders,0,1,,8,JD Unadkat,BG Jerling,RB Tiffin
+Dharamsala,Himachal Pradesh Cricket Association Stadium,2010-04-18,Kings XI Punjab,Chennai Super Kings,,,Chennai Super Kings,field,Kings XI Punjab,Chennai Super Kings,0,1,,6,MS Dhoni,BF Bowden,AM Saheba
+Delhi,Feroz Shah Kotla,2010-04-18,Delhi Daredevils,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,11,,A Symonds,BR Doctrove,SK Tarapore
+Kolkata,Eden Gardens,2010-04-19,Kolkata Knight Riders,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Kolkata Knight Riders,0,1,,9,M Kartik,BG Jerling,RE Koertzen
+Mumbai,Dr DY Patil Sports Academy,2010-04-21,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,35,,KA Pollard,BR Doctrove,RB Tiffin
+Mumbai,Dr DY Patil Sports Academy,2010-04-22,Chennai Super Kings,Deccan Chargers,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,38,,DE Bollinger,BR Doctrove,RB Tiffin
+Mumbai,Dr DY Patil Sports Academy,2010-04-24,Royal Challengers Bangalore,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Royal Challengers Bangalore,0,1,,9,A Kumble,RE Koertzen,SJA Taufel
+Mumbai,Dr DY Patil Sports Academy,2010-04-25,Chennai Super Kings,Mumbai Indians,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,22,,SK Raina,RE Koertzen,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2011-04-08,Chennai Super Kings,Kolkata Knight Riders,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,2,,S Anirudha,BR Doctrove,PR Reiffel
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2011-04-09,Deccan Chargers,Rajasthan Royals,,,Rajasthan Royals,field,Deccan Chargers,Rajasthan Royals,0,1,,8,SK Trivedi,RE Koertzen,SK Tarapore
+Kochi,Nehru Stadium,2011-04-09,Kochi Tuskers Kerala,Royal Challengers Bangalore,,,Kochi Tuskers Kerala,bat,Kochi Tuskers Kerala,Royal Challengers Bangalore,0,1,,6,AB de Villiers,HDPK Dharmasena,K Hariharan
+Delhi,Feroz Shah Kotla,2011-04-10,Delhi Daredevils,Mumbai Indians,,,Delhi Daredevils,bat,Delhi Daredevils,Mumbai Indians,0,1,,8,SL Malinga,AM Saheba,RB Tiffin
+Mumbai,Dr DY Patil Sports Academy,2011-04-10,Pune Warriors,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Pune Warriors,0,1,,7,SB Wagh,BR Doctrove,PR Reiffel
+Kolkata,Eden Gardens,2011-04-11,Kolkata Knight Riders,Deccan Chargers,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,9,,JH Kallis,RE Koertzen,SK Tarapore
+Jaipur,Sawai Mansingh Stadium,2011-04-12,Rajasthan Royals,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Rajasthan Royals,0,1,,6,SK Warne,Aleem Dar,RB Tiffin
+Bangalore,M Chinnaswamy Stadium,2011-04-12,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,1,,9,SR Tendulkar,HDPK Dharmasena,AL Hill
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2011-04-13,Kings XI Punjab,Chennai Super Kings,,,Kings XI Punjab,field,Chennai Super Kings,Kings XI Punjab,0,1,,6,PC Valthaty,Asad Rauf,SL Shastri
+Mumbai,Dr DY Patil Sports Academy,2011-04-13,Pune Warriors,Kochi Tuskers Kerala,,,Kochi Tuskers Kerala,bat,Kochi Tuskers Kerala,Pune Warriors,0,1,,4,MD Mishra,S Asnani,PR Reiffel
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2011-04-14,Deccan Chargers,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Deccan Chargers,Deccan Chargers,1,0,33,,DW Steyn,RE Koertzen,S Ravi
+Jaipur,Sawai Mansingh Stadium,2011-04-15,Rajasthan Royals,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Rajasthan Royals,Kolkata Knight Riders,0,1,,9,G Gambhir,Aleem Dar,SS Hazare
+Mumbai,Wankhede Stadium,2011-04-15,Mumbai Indians,Kochi Tuskers Kerala,,,Kochi Tuskers Kerala,field,Mumbai Indians,Kochi Tuskers Kerala,0,1,,8,BB McCullum,BR Doctrove,PR Reiffel
+Chennai,"MA Chidambaram Stadium, Chepauk",2011-04-16,Chennai Super Kings,Royal Challengers Bangalore,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,21,,MEK Hussey,HDPK Dharmasena,AL Hill
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2011-04-16,Deccan Chargers,Kings XI Punjab,,,Kings XI Punjab,field,Deccan Chargers,Kings XI Punjab,0,1,,8,PC Valthaty,RE Koertzen,S Ravi
+Mumbai,Dr DY Patil Sports Academy,2011-04-17,Pune Warriors,Delhi Daredevils,,,Delhi Daredevils,field,Pune Warriors,Delhi Daredevils,0,1,,3,Yuvraj Singh,Asad Rauf,AM Saheba
+Kolkata,Eden Gardens,2011-04-17,Kolkata Knight Riders,Rajasthan Royals,,,Kolkata Knight Riders,field,Rajasthan Royals,Kolkata Knight Riders,0,1,,8,L Balaji,Aleem Dar,RB Tiffin
+Kochi,Nehru Stadium,2011-04-18,Kochi Tuskers Kerala,Chennai Super Kings,,,Kochi Tuskers Kerala,field,Chennai Super Kings,Kochi Tuskers Kerala,0,1,,7,BB McCullum,K Hariharan,AL Hill
+Delhi,Feroz Shah Kotla,2011-04-19,Delhi Daredevils,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,16,,S Sohal,PR Reiffel,RJ Tucker
+Mumbai,Wankhede Stadium,2011-04-20,Mumbai Indians,Pune Warriors,,,Pune Warriors,bat,Pune Warriors,Mumbai Indians,0,1,,7,MM Patel,Asad Rauf,AM Saheba
+Kolkata,Eden Gardens,2011-04-20,Kolkata Knight Riders,Kochi Tuskers Kerala,,,Kolkata Knight Riders,field,Kochi Tuskers Kerala,Kochi Tuskers Kerala,1,0,6,,DPMD Jayawardene,Aleem Dar,RB Tiffin
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2011-04-21,Kings XI Punjab,Rajasthan Royals,,,Rajasthan Royals,field,Kings XI Punjab,Kings XI Punjab,1,0,48,,SE Marsh,S Asnani,PR Reiffel
+Mumbai,Wankhede Stadium,2011-04-22,Mumbai Indians,Chennai Super Kings,,,Chennai Super Kings,field,Mumbai Indians,Mumbai Indians,1,0,8,,Harbhajan Singh,Asad Rauf,AM Saheba
+Kolkata,Eden Gardens,2011-04-22,Kolkata Knight Riders,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,9,CH Gayle,SS Hazare,RB Tiffin
+Delhi,Feroz Shah Kotla,2011-04-23,Delhi Daredevils,Kings XI Punjab,,,Kings XI Punjab,field,Delhi Daredevils,Delhi Daredevils,1,0,29,,DA Warner,S Asnani,RE Koertzen
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2011-04-24,Deccan Chargers,Mumbai Indians,,,Deccan Chargers,field,Mumbai Indians,Mumbai Indians,1,0,37,,SL Malinga,HDPK Dharmasena,AL Hill
+Jaipur,Sawai Mansingh Stadium,2011-04-24,Rajasthan Royals,Kochi Tuskers Kerala,,,Rajasthan Royals,field,Kochi Tuskers Kerala,Rajasthan Royals,0,1,,8,SK Warne,BR Doctrove,SK Tarapore
+Chennai,"MA Chidambaram Stadium, Chepauk",2011-04-25,Chennai Super Kings,Pune Warriors,,,Pune Warriors,field,Chennai Super Kings,Chennai Super Kings,1,0,25,,MEK Hussey,Aleem Dar,RB Tiffin
+Delhi,Feroz Shah Kotla,2011-04-26,Delhi Daredevils,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Delhi Daredevils,Royal Challengers Bangalore,0,1,,3,V Kohli,S Asnani,RJ Tucker
+Mumbai,Dr DY Patil Sports Academy,2011-04-27,Pune Warriors,Chennai Super Kings,,,Pune Warriors,bat,Pune Warriors,Chennai Super Kings,0,1,,8,DE Bollinger,Asad Rauf,SL Shastri
+Kochi,Nehru Stadium,2011-04-27,Kochi Tuskers Kerala,Deccan Chargers,,,Kochi Tuskers Kerala,field,Deccan Chargers,Deccan Chargers,1,0,55,,I Sharma,HDPK Dharmasena,AL Hill
+Delhi,Feroz Shah Kotla,2011-04-28,Delhi Daredevils,Kolkata Knight Riders,,,Delhi Daredevils,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,17,,MK Tiwary,PR Reiffel,RJ Tucker
+Jaipur,Sawai Mansingh Stadium,2011-04-29,Rajasthan Royals,Mumbai Indians,,,Rajasthan Royals,field,Mumbai Indians,Rajasthan Royals,0,1,,7,J Botha,Asad Rauf,SK Tarapore
+Bangalore,M Chinnaswamy Stadium,2011-04-29,Royal Challengers Bangalore,Pune Warriors,,,Pune Warriors,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,26,,V Kohli,Aleem Dar,SS Hazare
+Kochi,Nehru Stadium,2011-04-30,Kochi Tuskers Kerala,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,38,,V Sehwag,HDPK Dharmasena,AL Hill
+Kolkata,Eden Gardens,2011-04-30,Kolkata Knight Riders,Kings XI Punjab,,,Kolkata Knight Riders,field,Kings XI Punjab,Kolkata Knight Riders,0,1,,8,Iqbal Abdulla,AM Saheba,SL Shastri
+Jaipur,Sawai Mansingh Stadium,2011-05-01,Rajasthan Royals,Pune Warriors,,,Rajasthan Royals,field,Pune Warriors,Rajasthan Royals,0,1,,6,LRPL Taylor,SK Tarapore,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2011-05-01,Chennai Super Kings,Deccan Chargers,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,19,,JA Morkel,Aleem Dar,RB Tiffin
+Mumbai,Wankhede Stadium,2011-05-02,Mumbai Indians,Kings XI Punjab,,,Kings XI Punjab,field,Mumbai Indians,Mumbai Indians,1,0,23,,KA Pollard,HDPK Dharmasena,PR Reiffel
+Delhi,Feroz Shah Kotla,2011-05-02,Delhi Daredevils,Kochi Tuskers Kerala,,,Kochi Tuskers Kerala,field,Delhi Daredevils,Kochi Tuskers Kerala,0,1,,7,P Parameswaran,Asad Rauf,SL Shastri
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2011-05-03,Deccan Chargers,Kolkata Knight Riders,,,Deccan Chargers,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,20,,YK Pathan,S Asnani,RJ Tucker
+Chennai,"MA Chidambaram Stadium, Chepauk",2011-05-04,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Chennai Super Kings,0,1,,8,MEK Hussey,SS Hazare,RB Tiffin
+Mumbai,Dr DY Patil Sports Academy,2011-05-04,Pune Warriors,Mumbai Indians,,,Pune Warriors,field,Mumbai Indians,Mumbai Indians,1,0,21,,R Sharma,HDPK Dharmasena,SJA Taufel
+Kochi,Nehru Stadium,2011-05-05,Kochi Tuskers Kerala,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Kochi Tuskers Kerala,Kochi Tuskers Kerala,1,0,17,,BJ Hodge,S Ravi,RJ Tucker
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2011-05-05,Deccan Chargers,Delhi Daredevils,,,Delhi Daredevils,field,Deccan Chargers,Delhi Daredevils,0,1,,4,V Sehwag,Asad Rauf,AM Saheba
+Bangalore,M Chinnaswamy Stadium,2011-05-06,Royal Challengers Bangalore,Kings XI Punjab,,,Kings XI Punjab,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,85,,CH Gayle,Aleem Dar,RB Tiffin
+Kolkata,Eden Gardens,2011-05-07,Kolkata Knight Riders,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Kolkata Knight Riders,1,0,10,,Iqbal Abdulla,Asad Rauf,PR Reiffel
+Mumbai,Wankhede Stadium,2011-05-07,Mumbai Indians,Delhi Daredevils,,,Delhi Daredevils,field,Mumbai Indians,Mumbai Indians,1,0,32,,AT Rayudu,K Hariharan,SJA Taufel
+Bangalore,M Chinnaswamy Stadium,2011-05-08,Royal Challengers Bangalore,Kochi Tuskers Kerala,,,Kochi Tuskers Kerala,bat,Kochi Tuskers Kerala,Royal Challengers Bangalore,0,1,,9,CH Gayle,Aleem Dar,SS Hazare
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2011-05-08,Kings XI Punjab,Pune Warriors,,,Kings XI Punjab,bat,Kings XI Punjab,Pune Warriors,0,1,,5,R Sharma,SK Tarapore,RJ Tucker
+Jaipur,Sawai Mansingh Stadium,2011-05-09,Rajasthan Royals,Chennai Super Kings,,,Rajasthan Royals,field,Chennai Super Kings,Chennai Super Kings,1,0,63,,M Vijay,K Hariharan,SJA Taufel
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2011-05-10,Deccan Chargers,Pune Warriors,,,Deccan Chargers,bat,Deccan Chargers,Pune Warriors,0,1,,6,MR Marsh,Asad Rauf,AM Saheba
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2011-05-10,Kings XI Punjab,Mumbai Indians,,,Mumbai Indians,field,Kings XI Punjab,Kings XI Punjab,1,0,76,,BA Bhatt,SK Tarapore,RJ Tucker
+Jaipur,Sawai Mansingh Stadium,2011-05-11,Rajasthan Royals,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,1,,9,S Aravind,HDPK Dharmasena,K Hariharan
+Chennai,"MA Chidambaram Stadium, Chepauk",2011-05-12,Chennai Super Kings,Delhi Daredevils,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,18,,MS Dhoni,AM Saheba,SL Shastri
+Indore,Holkar Cricket Stadium,2011-05-13,Kochi Tuskers Kerala,Kings XI Punjab,,,Kings XI Punjab,field,Kochi Tuskers Kerala,Kings XI Punjab,0,1,,6,KD Karthik,S Asnani,RJ Tucker
+Bangalore,M Chinnaswamy Stadium,2011-05-14,Royal Challengers Bangalore,Kolkata Knight Riders,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,4,CH Gayle,RE Koertzen,RB Tiffin
+Mumbai,Wankhede Stadium,2011-05-14,Mumbai Indians,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,10,,A Mishra,S Ravi,SK Tarapore
+Dharamsala,Himachal Pradesh Cricket Association Stadium,2011-05-15,Kings XI Punjab,Delhi Daredevils,,,Delhi Daredevils,field,Kings XI Punjab,Kings XI Punjab,1,0,29,,PP Chawla,Asad Rauf,SL Shastri
+Indore,Holkar Cricket Stadium,2011-05-15,Kochi Tuskers Kerala,Rajasthan Royals,,,Kochi Tuskers Kerala,field,Rajasthan Royals,Kochi Tuskers Kerala,0,1,,8,BJ Hodge,PR Reiffel,RJ Tucker
+Mumbai,Dr DY Patil Sports Academy,2011-05-16,Pune Warriors,Deccan Chargers,,,Deccan Chargers,field,Pune Warriors,Deccan Chargers,0,1,,6,A Mishra,S Ravi,SK Tarapore
+Dharamsala,Himachal Pradesh Cricket Association Stadium,2011-05-17,Kings XI Punjab,Royal Challengers Bangalore,,,Kings XI Punjab,bat,Kings XI Punjab,Kings XI Punjab,1,0,111,,AC Gilchrist,Asad Rauf,AM Saheba
+Chennai,"MA Chidambaram Stadium, Chepauk",2011-05-18,Chennai Super Kings,Kochi Tuskers Kerala,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,11,,WP Saha,HDPK Dharmasena,RE Koertzen
+Mumbai,Dr DY Patil Sports Academy,2011-05-19,Pune Warriors,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Pune Warriors,Kolkata Knight Riders,0,1,,7,YK Pathan,S Ravi,SJA Taufel
+Mumbai,Wankhede Stadium,2011-05-20,Mumbai Indians,Rajasthan Royals,,,Mumbai Indians,bat,Mumbai Indians,Rajasthan Royals,0,1,,10,SR Watson,RE Koertzen,PR Reiffel
+Dharamsala,Himachal Pradesh Cricket Association Stadium,2011-05-21,Kings XI Punjab,Deccan Chargers,,,Kings XI Punjab,field,Deccan Chargers,Deccan Chargers,1,0,82,,S Dhawan,Asad Rauf,AM Saheba
+Delhi,Feroz Shah Kotla,2011-05-21,Delhi Daredevils,Pune Warriors,,,Delhi Daredevils,bat,Delhi Daredevils,Tied,,,,,,SS Hazare,RJ Tucker
+Bangalore,M Chinnaswamy Stadium,2011-05-22,Royal Challengers Bangalore,Chennai Super Kings,,,Royal Challengers Bangalore,field,Chennai Super Kings,Royal Challengers Bangalore,0,1,,8,CH Gayle,K Hariharan,RE Koertzen
+Kolkata,Eden Gardens,2011-05-22,Kolkata Knight Riders,Mumbai Indians,,,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,1,,5,JEC Franklin,SK Tarapore,SJA Taufel
+Mumbai,Wankhede Stadium,2011-05-24,Royal Challengers Bangalore,Chennai Super Kings,,,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,1,,6,SK Raina,Asad Rauf,SJA Taufel
+Mumbai,Wankhede Stadium,2011-05-25,Mumbai Indians,Kolkata Knight Riders,,,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,1,,4,MM Patel,Asad Rauf,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2011-05-27,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,43,,CH Gayle,Asad Rauf,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2011-05-28,Chennai Super Kings,Royal Challengers Bangalore,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,58,,M Vijay,Asad Rauf,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-04-04,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,1,,8,RE Levi,JD Cloete,SJA Taufel
+Kolkata,Eden Gardens,2012-04-05,Kolkata Knight Riders,Delhi Daredevils,,,Delhi Daredevils,field,Kolkata Knight Riders,Delhi Daredevils,0,1,,8,IK Pathan,S Asnani,HDPK Dharmasena
+Mumbai,Wankhede Stadium,2012-04-06,Mumbai Indians,Pune Warriors,,,Mumbai Indians,field,Pune Warriors,Pune Warriors,1,0,28,,SPD Smith,AK Chaudhary,SJA Taufel
+Jaipur,Sawai Mansingh Stadium,2012-04-06,Rajasthan Royals,Kings XI Punjab,,,Kings XI Punjab,field,Rajasthan Royals,Rajasthan Royals,1,0,31,,AM Rahane,BF Bowden,SK Tarapore
+Bangalore,M Chinnaswamy Stadium,2012-04-07,Royal Challengers Bangalore,Delhi Daredevils,,,Delhi Daredevils,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,20,,AB de Villiers,S Asnani,S Ravi
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2012-04-07,Deccan Chargers,Chennai Super Kings,,,Deccan Chargers,field,Chennai Super Kings,Chennai Super Kings,1,0,74,,RA Jadeja,JD Cloete,HDPK Dharmasena
+Jaipur,Sawai Mansingh Stadium,2012-04-08,Rajasthan Royals,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Rajasthan Royals,Rajasthan Royals,1,0,22,,BJ Hodge,BF Bowden,VA Kulkarni
+Pune,Subrata Roy Sahara Stadium,2012-04-08,Pune Warriors,Kings XI Punjab,,,Pune Warriors,bat,Pune Warriors,Pune Warriors,1,0,22,,MN Samuels,S Das,SJA Taufel
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2012-04-09,Deccan Chargers,Mumbai Indians,,,Deccan Chargers,bat,Deccan Chargers,Mumbai Indians,0,1,,5,RG Sharma,AK Chaudhary,JD Cloete
+Bangalore,M Chinnaswamy Stadium,2012-04-10,Royal Challengers Bangalore,Kolkata Knight Riders,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,42,,L Balaji,S Ravi,RJ Tucker
+Delhi,Feroz Shah Kotla,2012-04-10,Delhi Daredevils,Chennai Super Kings,,,Delhi Daredevils,field,Chennai Super Kings,Delhi Daredevils,0,1,,8,M Morkel,Asad Rauf,SK Tarapore
+Mumbai,Wankhede Stadium,2012-04-11,Mumbai Indians,Rajasthan Royals,,,Rajasthan Royals,field,Mumbai Indians,Mumbai Indians,1,0,27,,KA Pollard,Aleem Dar,BNJ Oxenford
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-04-12,Chennai Super Kings,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Chennai Super Kings,0,1,,5,F du Plessis,HDPK Dharmasena,RJ Tucker
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2012-04-12,Kings XI Punjab,Pune Warriors,,,Kings XI Punjab,field,Pune Warriors,Kings XI Punjab,0,1,,7,AD Mascarenhas,VA Kulkarni,SK Tarapore
+Kolkata,Eden Gardens,2012-04-13,Kolkata Knight Riders,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Kolkata Knight Riders,0,1,,5,Shakib Al Hasan,Asad Rauf,S Asnani
+Delhi,Feroz Shah Kotla,2012-04-19,Delhi Daredevils,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Delhi Daredevils,0,1,,5,KP Pietersen,BF Bowden,SK Tarapore
+Pune,Subrata Roy Sahara Stadium,2012-04-14,Pune Warriors,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Pune Warriors,0,1,,7,JD Ryder,Aleem Dar,BNJ Oxenford
+Kolkata,Eden Gardens,2012-04-15,Kolkata Knight Riders,Kings XI Punjab,,,Kolkata Knight Riders,field,Kings XI Punjab,Kings XI Punjab,1,0,2,,SP Narine,Asad Rauf,S Asnani
+Bangalore,M Chinnaswamy Stadium,2012-04-15,Royal Challengers Bangalore,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,59,,AM Rahane,JD Cloete,RJ Tucker
+Mumbai,Wankhede Stadium,2012-04-16,Mumbai Indians,Delhi Daredevils,,,Delhi Daredevils,field,Mumbai Indians,Delhi Daredevils,0,1,,7,S Nadeem,BF Bowden,SK Tarapore
+Jaipur,Sawai Mansingh Stadium,2012-04-17,Rajasthan Royals,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Rajasthan Royals,0,1,,5,BJ Hodge,Aleem Dar,BNJ Oxenford
+Bangalore,M Chinnaswamy Stadium,2012-04-17,Royal Challengers Bangalore,Pune Warriors,,,Pune Warriors,bat,Pune Warriors,Royal Challengers Bangalore,0,1,,6,CH Gayle,S Asnani,S Das
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2012-04-18,Kings XI Punjab,Kolkata Knight Riders,,,Kings XI Punjab,bat,Kings XI Punjab,Kolkata Knight Riders,0,1,,8,G Gambhir,JD Cloete,RJ Tucker
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2012-05-10,Deccan Chargers,Delhi Daredevils,,,Deccan Chargers,bat,Deccan Chargers,Delhi Daredevils,0,1,,9,DA Warner,JD Cloete,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-04-19,Chennai Super Kings,Pune Warriors,,,Pune Warriors,field,Chennai Super Kings,Chennai Super Kings,1,0,13,,KMDN Kulasekara,Asad Rauf,S Das
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2012-04-20,Kings XI Punjab,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kings XI Punjab,Royal Challengers Bangalore,0,1,,5,CH Gayle,S Ravi,RJ Tucker
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-04-21,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Chennai Super Kings,0,1,,7,F du Plessis,Aleem Dar,BNJ Oxenford
+Delhi,Feroz Shah Kotla,2012-04-21,Delhi Daredevils,Pune Warriors,,,Delhi Daredevils,field,Pune Warriors,Pune Warriors,1,0,20,,SC Ganguly,Asad Rauf,S Das
+Mumbai,Wankhede Stadium,2012-04-22,Mumbai Indians,Kings XI Punjab,,,Mumbai Indians,bat,Mumbai Indians,Kings XI Punjab,0,1,,6,SE Marsh,S Ravi,RJ Tucker
+Cuttack,Barabati Stadium,2012-04-22,Deccan Chargers,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Deccan Chargers,Kolkata Knight Riders,0,1,,5,B Lee,BF Bowden,SK Tarapore
+Jaipur,Sawai Mansingh Stadium,2012-04-23,Rajasthan Royals,Royal Challengers Bangalore,,,Rajasthan Royals,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,46,,AB de Villiers,Asad Rauf,S Asnani
+Pune,Subrata Roy Sahara Stadium,2012-04-24,Pune Warriors,Delhi Daredevils,,,Pune Warriors,bat,Pune Warriors,Delhi Daredevils,0,1,,8,V Sehwag,S Ravi,RJ Tucker
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2012-04-25,Kings XI Punjab,Mumbai Indians,,,Kings XI Punjab,bat,Kings XI Punjab,Mumbai Indians,0,1,,4,AT Rayudu,Aleem Dar,BNJ Oxenford
+Pune,Subrata Roy Sahara Stadium,2012-04-26,Pune Warriors,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,18,,CL White,S Ravi,RJ Tucker
+Delhi,Feroz Shah Kotla,2012-04-27,Delhi Daredevils,Mumbai Indians,,,Mumbai Indians,field,Delhi Daredevils,Delhi Daredevils,1,0,37,,V Sehwag,Aleem Dar,BNJ Oxenford
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-04-28,Chennai Super Kings,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Kings XI Punjab,1,0,7,,Mandeep Singh,BF Bowden,SK Tarapore
+Kolkata,Eden Gardens,2012-04-28,Kolkata Knight Riders,Royal Challengers Bangalore,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,47,,G Gambhir,Asad Rauf,BR Doctrove
+Delhi,Feroz Shah Kotla,2012-04-29,Delhi Daredevils,Rajasthan Royals,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,1,,V Sehwag,S Ravi,RJ Tucker
+Mumbai,Wankhede Stadium,2012-04-29,Mumbai Indians,Deccan Chargers,,,Mumbai Indians,field,Deccan Chargers,Mumbai Indians,0,1,,5,DW Steyn,AK Chaudhary,BNJ Oxenford
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-04-30,Chennai Super Kings,Kolkata Knight Riders,,,Chennai Super Kings,bat,Chennai Super Kings,Kolkata Knight Riders,0,1,,5,G Gambhir,BF Bowden,C Shamshuddin
+Cuttack,Barabati Stadium,2012-05-01,Deccan Chargers,Pune Warriors,,,Deccan Chargers,bat,Deccan Chargers,Deccan Chargers,1,0,13,,KC Sangakkara,Aleem Dar,AK Chaudhary
+Jaipur,Sawai Mansingh Stadium,2012-05-01,Rajasthan Royals,Delhi Daredevils,,,Rajasthan Royals,bat,Rajasthan Royals,Delhi Daredevils,0,1,,6,P Negi,JD Cloete,SJA Taufel
+Bangalore,M Chinnaswamy Stadium,2012-05-02,Royal Challengers Bangalore,Kings XI Punjab,,,Kings XI Punjab,field,Royal Challengers Bangalore,Kings XI Punjab,0,1,,4,Azhar Mahmood,BF Bowden,C Shamshuddin
+Pune,Subrata Roy Sahara Stadium,2012-05-03,Pune Warriors,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,1,,SL Malinga,Asad Rauf,S Asnani
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-05-04,Chennai Super Kings,Deccan Chargers,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,10,,SK Raina,HDPK Dharmasena,BNJ Oxenford
+Kolkata,Eden Gardens,2012-05-05,Kolkata Knight Riders,Pune Warriors,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,7,,SP Narine,BF Bowden,SK Tarapore
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2012-05-05,Kings XI Punjab,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,43,,SR Watson,JD Cloete,SJA Taufel
+Mumbai,Wankhede Stadium,2012-05-06,Mumbai Indians,Chennai Super Kings,,,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,1,,2,DR Smith,Asad Rauf,S Asnani
+Bangalore,M Chinnaswamy Stadium,2012-05-06,Royal Challengers Bangalore,Deccan Chargers,,,Royal Challengers Bangalore,field,Deccan Chargers,Royal Challengers Bangalore,0,1,,5,AB de Villiers,HDPK Dharmasena,BNJ Oxenford
+Delhi,Feroz Shah Kotla,2012-05-07,Delhi Daredevils,Kolkata Knight Riders,,,Delhi Daredevils,bat,Delhi Daredevils,Kolkata Knight Riders,0,1,,6,JH Kallis,JD Cloete,S Ravi
+Pune,Subrata Roy Sahara Stadium,2012-05-08,Pune Warriors,Rajasthan Royals,,,Pune Warriors,bat,Pune Warriors,Rajasthan Royals,0,1,,7,SR Watson,Asad Rauf,BR Doctrove
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2012-05-08,Deccan Chargers,Kings XI Punjab,,,Deccan Chargers,field,Kings XI Punjab,Kings XI Punjab,1,0,25,,Mandeep Singh,HDPK Dharmasena,BNJ Oxenford
+Mumbai,Wankhede Stadium,2012-05-09,Mumbai Indians,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Mumbai Indians,Royal Challengers Bangalore,0,1,,9,CH Gayle,BF Bowden,VA Kulkarni
+Jaipur,Sawai Mansingh Stadium,2012-05-10,Rajasthan Royals,Chennai Super Kings,,,Chennai Super Kings,field,Rajasthan Royals,Chennai Super Kings,0,1,,4,BW Hilfenhaus,BNJ Oxenford,C Shamshuddin
+Pune,Subrata Roy Sahara Stadium,2012-05-11,Pune Warriors,Royal Challengers Bangalore,,,Pune Warriors,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,35,,CH Gayle,BF Bowden,SK Tarapore
+Kolkata,Eden Gardens,2012-05-12,Kolkata Knight Riders,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,27,,RG Sharma,S Ravi,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-05-12,Chennai Super Kings,Delhi Daredevils,,,Chennai Super Kings,field,Delhi Daredevils,Chennai Super Kings,0,1,,9,BW Hilfenhaus,S Das,BR Doctrove
+Jaipur,Sawai Mansingh Stadium,2012-05-13,Rajasthan Royals,Pune Warriors,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,45,,A Chandila,BF Bowden,SK Tarapore
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2012-05-13,Kings XI Punjab,Deccan Chargers,,,Deccan Chargers,bat,Deccan Chargers,Kings XI Punjab,0,1,,4,DJ Hussey,HDPK Dharmasena,BNJ Oxenford
+Bangalore,M Chinnaswamy Stadium,2012-05-14,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,1,,5,AT Rayudu,S Das,BR Doctrove
+Kolkata,Eden Gardens,2012-05-14,Kolkata Knight Riders,Chennai Super Kings,,,Chennai Super Kings,field,Kolkata Knight Riders,Chennai Super Kings,0,1,,5,MEK Hussey,JD Cloete,SJA Taufel
+Delhi,Feroz Shah Kotla,2012-05-15,Delhi Daredevils,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Delhi Daredevils,0,1,,5,UT Yadav,HDPK Dharmasena,BNJ Oxenford
+Mumbai,Wankhede Stadium,2012-05-16,Mumbai Indians,Kolkata Knight Riders,,,Mumbai Indians,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,32,,SP Narine,S Das,BR Doctrove
+Dharamsala,Himachal Pradesh Cricket Association Stadium,2012-05-17,Kings XI Punjab,Chennai Super Kings,,,Kings XI Punjab,field,Chennai Super Kings,Kings XI Punjab,0,1,,6,AC Gilchrist,VA Kulkarni,SK Tarapore
+Delhi,Feroz Shah Kotla,2012-05-17,Delhi Daredevils,Royal Challengers Bangalore,,,Delhi Daredevils,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,21,,CH Gayle,HDPK Dharmasena,C Shamshuddin
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2012-05-18,Deccan Chargers,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Deccan Chargers,0,1,,5,DW Steyn,S Ravi,SJA Taufel
+Dharamsala,Himachal Pradesh Cricket Association Stadium,2012-05-19,Kings XI Punjab,Delhi Daredevils,,,Delhi Daredevils,field,Kings XI Punjab,Delhi Daredevils,0,1,,6,UT Yadav,BF Bowden,VA Kulkarni
+Pune,Subrata Roy Sahara Stadium,2012-05-19,Pune Warriors,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,34,,Shakib Al Hasan,S Asnani,BR Doctrove
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2012-05-20,Deccan Chargers,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Deccan Chargers,Deccan Chargers,1,0,9,,DW Steyn,S Ravi,SJA Taufel
+Jaipur,Sawai Mansingh Stadium,2012-05-20,Rajasthan Royals,Mumbai Indians,,,Rajasthan Royals,bat,Rajasthan Royals,Mumbai Indians,0,1,,10,DR Smith,HDPK Dharmasena,C Shamshuddin
+Pune,Subrata Roy Sahara Stadium,2012-05-22,Delhi Daredevils,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,18,,YK Pathan,BR Doctrove,SJA Taufel
+Bangalore,M Chinnaswamy Stadium,2012-05-23,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,field,Chennai Super Kings,Chennai Super Kings,1,0,38,,MS Dhoni,BF Bowden,HDPK Dharmasena
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-05-25,Delhi Daredevils,Chennai Super Kings,,,Delhi Daredevils,field,Chennai Super Kings,Chennai Super Kings,1,0,86,,M Vijay,BR Doctrove,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2012-05-27,Kolkata Knight Riders,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Kolkata Knight Riders,0,1,,5,MS Bisla,BF Bowden,SJA Taufel
+Kolkata,Eden Gardens,2013-04-03,Kolkata Knight Riders,Delhi Daredevils,,,Kolkata Knight Riders,field,Delhi Daredevils,Kolkata Knight Riders,0,1,,6,SP Narine,S Ravi,SJA Taufel
+Bangalore,M Chinnaswamy Stadium,2013-04-04,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,2,,CH Gayle,VA Kulkarni,C Shamshuddin
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2013-04-05,Sunrisers Hyderabad,Pune Warriors,,,Pune Warriors,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,22,,A Mishra,S Ravi,SJA Taufel
+Delhi,Feroz Shah Kotla,2013-04-06,Delhi Daredevils,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,5,,R Dravid,S Das,C Shamshuddin
+Chennai,"MA Chidambaram Stadium, Chepauk",2013-04-06,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,9,,KA Pollard,M Erasmus,VA Kulkarni
+Pune,Subrata Roy Sahara Stadium,2013-04-07,Pune Warriors,Kings XI Punjab,,,Pune Warriors,bat,Pune Warriors,Kings XI Punjab,0,1,,8,M Vohra,S Asnani,SJA Taufel
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2013-04-07,Sunrisers Hyderabad,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Tied,,,,,GH Vihari,AK Chaudhary,S Ravi
+Jaipur,Sawai Mansingh Stadium,2013-04-08,Rajasthan Royals,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Rajasthan Royals,Rajasthan Royals,1,0,19,,SK Trivedi,Aleem Dar,S Das
+Mumbai,Wankhede Stadium,2013-04-09,Mumbai Indians,Delhi Daredevils,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,44,,KD Karthik,M Erasmus,VA Kulkarni
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2013-04-10,Kings XI Punjab,Chennai Super Kings,,,Chennai Super Kings,field,Kings XI Punjab,Chennai Super Kings,0,1,,10,MEK Hussey,Aleem Dar,C Shamshuddin
+Bangalore,M Chinnaswamy Stadium,2013-04-11,Royal Challengers Bangalore,Kolkata Knight Riders,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,8,CH Gayle,Asad Rauf,AK Chaudhary
+Pune,Subrata Roy Sahara Stadium,2013-04-11,Pune Warriors,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Pune Warriors,0,1,,7,AJ Finch,M Erasmus,K Srinath
+Delhi,Feroz Shah Kotla,2013-04-12,Delhi Daredevils,Sunrisers Hyderabad,,,Delhi Daredevils,bat,Delhi Daredevils,Sunrisers Hyderabad,0,1,,3,A Mishra,Aleem Dar,Subroto Das
+Mumbai,Wankhede Stadium,2013-04-13,Mumbai Indians,Pune Warriors,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,41,,RG Sharma,S Ravi,SJA Taufel
+Chennai,"MA Chidambaram Stadium, Chepauk",2013-04-13,Chennai Super Kings,Royal Challengers Bangalore,,,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,1,,4,RA Jadeja,Asad Rauf,AK Chaudhary
+Kolkata,Eden Gardens,2013-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,48,,G Gambhir,M Erasmus,VA Kulkarni
+Jaipur,Sawai Mansingh Stadium,2013-04-14,Rajasthan Royals,Kings XI Punjab,,,Rajasthan Royals,field,Kings XI Punjab,Rajasthan Royals,0,1,,6,JP Faulkner,Aleem Dar,C Shamshuddin
+Chennai,"MA Chidambaram Stadium, Chepauk",2013-04-15,Chennai Super Kings,Pune Warriors,,,Pune Warriors,bat,Pune Warriors,Pune Warriors,1,0,24,,SPD Smith,Asad Rauf,AK Chaudhary
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2013-04-16,Kings XI Punjab,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Kings XI Punjab,Kings XI Punjab,1,0,4,,MS Gony,CK Nandan,SJA Taufel
+Bangalore,M Chinnaswamy Stadium,2013-04-16,Royal Challengers Bangalore,Delhi Daredevils,,,Royal Challengers Bangalore,field,Delhi Daredevils,Tied,,,,,V Kohli,M Erasmus,VA Kulkarni
+Pune,Subrata Roy Sahara Stadium,2013-04-17,Pune Warriors,Sunrisers Hyderabad,,,Pune Warriors,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,11,,A Mishra,Asad Rauf,AK Chaudhary
+Jaipur,Sawai Mansingh Stadium,2013-04-17,Rajasthan Royals,Mumbai Indians,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,87,,AM Rahane,Aleem Dar,C Shamshuddin
+Delhi,Feroz Shah Kotla,2013-04-18,Delhi Daredevils,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,86,,MEK Hussey,M Erasmus,VA Kulkarni
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2013-04-19,Sunrisers Hyderabad,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Sunrisers Hyderabad,0,1,,5,GH Vihari,HDPK Dharmasena,CK Nandan
+Kolkata,Eden Gardens,2013-04-20,Kolkata Knight Riders,Chennai Super Kings,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,1,,4,RA Jadeja,Asad Rauf,AK Chaudhary
+Bangalore,M Chinnaswamy Stadium,2013-04-20,Royal Challengers Bangalore,Rajasthan Royals,,,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,1,,7,R Vinay Kumar,Aleem Dar,C Shamshuddin
+Delhi,Feroz Shah Kotla,2013-04-21,Delhi Daredevils,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Delhi Daredevils,0,1,,9,V Sehwag,HDPK Dharmasena,S Ravi
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2013-04-21,Kings XI Punjab,Pune Warriors,,,Kings XI Punjab,field,Pune Warriors,Kings XI Punjab,0,1,,7,DA Miller,M Erasmus,K Srinath
+Chennai,"MA Chidambaram Stadium, Chepauk",2013-04-22,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Chennai Super Kings,0,1,,5,MEK Hussey,S Asnani,AK Chaudhary
+Bangalore,M Chinnaswamy Stadium,2013-04-23,Royal Challengers Bangalore,Pune Warriors,,,Pune Warriors,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,130,,CH Gayle,Aleem Dar,C Shamshuddin
+Dharamsala,Himachal Pradesh Cricket Association Stadium,2013-05-16,Kings XI Punjab,Delhi Daredevils,,,Delhi Daredevils,field,Kings XI Punjab,Kings XI Punjab,1,0,7,,DA Miller,HDPK Dharmasena,S Ravi
+Kolkata,Eden Gardens,2013-04-24,Kolkata Knight Riders,Mumbai Indians,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Mumbai Indians,0,1,,5,DR Smith,HDPK Dharmasena,S Ravi
+Chennai,"MA Chidambaram Stadium, Chepauk",2013-04-25,Chennai Super Kings,Sunrisers Hyderabad,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Chennai Super Kings,0,1,,5,MS Dhoni,Aleem Dar,S Das
+Kolkata,Eden Gardens,2013-04-26,Kolkata Knight Riders,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Kolkata Knight Riders,0,1,,6,JH Kallis,CK Nandan,S Ravi
+Jaipur,Sawai Mansingh Stadium,2013-04-27,Rajasthan Royals,Sunrisers Hyderabad,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajasthan Royals,0,1,,8,JP Faulkner,VA Kulkarni,K Srinath
+Mumbai,Wankhede Stadium,2013-04-27,Mumbai Indians,Royal Challengers Bangalore,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,58,,DR Smith,Asad Rauf,S Asnani
+Chennai,"MA Chidambaram Stadium, Chepauk",2013-04-28,Chennai Super Kings,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Chennai Super Kings,Chennai Super Kings,1,0,14,,MEK Hussey,Aleem Dar,SJA Taufel
+Raipur,Shaheed Veer Narayan Singh International Stadium,2013-04-28,Delhi Daredevils,Pune Warriors,,,Pune Warriors,field,Delhi Daredevils,Delhi Daredevils,1,0,15,,DA Warner,CK Nandan,S Ravi
+Jaipur,Sawai Mansingh Stadium,2013-04-29,Rajasthan Royals,Royal Challengers Bangalore,,,Rajasthan Royals,field,Royal Challengers Bangalore,Rajasthan Royals,0,1,,4,SV Samson,M Erasmus,K Srinath
+Mumbai,Wankhede Stadium,2013-04-29,Mumbai Indians,Kings XI Punjab,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,4,,RG Sharma,Asad Rauf,AK Chaudhary
+Pune,Subrata Roy Sahara Stadium,2013-04-30,Pune Warriors,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,37,,MS Dhoni,S Das,SJA Taufel
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2013-05-01,Sunrisers Hyderabad,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Sunrisers Hyderabad,0,1,,7,I Sharma,Asad Rauf,S Asnani
+Raipur,Shaheed Veer Narayan Singh International Stadium,2013-05-01,Delhi Daredevils,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Delhi Daredevils,0,1,,7,DA Warner,HDPK Dharmasena,CK Nandan
+Chennai,"MA Chidambaram Stadium, Chepauk",2013-05-02,Chennai Super Kings,Kings XI Punjab,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,15,,SK Raina,M Erasmus,VA Kulkarni
+Pune,Subrata Roy Sahara Stadium,2013-05-02,Pune Warriors,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,17,,AB de Villiers,Aleem Dar,C Shamshuddin
+Kolkata,Eden Gardens,2013-05-03,Kolkata Knight Riders,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Kolkata Knight Riders,0,1,,8,YK Pathan,HDPK Dharmasena,CK Nandan
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2013-05-04,Sunrisers Hyderabad,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Sunrisers Hyderabad,0,1,,6,DJG Sammy,Asad Rauf,S Asnani
+Bangalore,M Chinnaswamy Stadium,2013-05-14,Royal Challengers Bangalore,Kings XI Punjab,,,Kings XI Punjab,field,Royal Challengers Bangalore,Kings XI Punjab,0,1,,7,AC Gilchrist,HDPK Dharmasena,S Ravi
+Mumbai,Wankhede Stadium,2013-05-05,Mumbai Indians,Chennai Super Kings,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,60,,MG Johnson,HDPK Dharmasena,CK Nandan
+Jaipur,Sawai Mansingh Stadium,2013-05-05,Rajasthan Royals,Pune Warriors,,,Pune Warriors,bat,Pune Warriors,Rajasthan Royals,0,1,,5,AM Rahane,C Shamshuddin,RJ Tucker
+Bangalore,M Chinnaswamy Stadium,2013-04-09,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Royal Challengers Bangalore,0,1,,7,V Kohli,S Ravi,SJA Taufel
+Jaipur,Sawai Mansingh Stadium,2013-05-07,Rajasthan Royals,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Rajasthan Royals,0,1,,9,AM Rahane,Aleem Dar,RJ Tucker
+Mumbai,Wankhede Stadium,2013-05-07,Mumbai Indians,Kolkata Knight Riders,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,65,,SR Tendulkar,HDPK Dharmasena,S Ravi
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2013-05-08,Sunrisers Hyderabad,Chennai Super Kings,,,Sunrisers Hyderabad,field,Chennai Super Kings,Chennai Super Kings,1,0,77,,SK Raina,S Das,NJ Llong
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2013-05-09,Kings XI Punjab,Rajasthan Royals,,,Rajasthan Royals,field,Kings XI Punjab,Rajasthan Royals,0,1,,8,KK Cooper,HDPK Dharmasena,S Ravi
+Pune,Subrata Roy Sahara Stadium,2013-05-09,Pune Warriors,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,46,,G Gambhir,Asad Rauf,S Asnani
+Delhi,Feroz Shah Kotla,2013-05-10,Delhi Daredevils,Royal Challengers Bangalore,,,Delhi Daredevils,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,4,,JD Unadkat,NJ Llong,K Srinath
+Pune,Subrata Roy Sahara Stadium,2013-05-11,Pune Warriors,Mumbai Indians,,,Pune Warriors,bat,Pune Warriors,Mumbai Indians,0,1,,5,MG Johnson,Asad Rauf,AK Chaudhary
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2013-05-11,Kings XI Punjab,Sunrisers Hyderabad,,,Kings XI Punjab,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,30,,PA Patel,S Das,RJ Tucker
+Ranchi,JSCA International Stadium Complex,2013-05-12,Kolkata Knight Riders,Royal Challengers Bangalore,,,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,1,,5,JH Kallis,NJ Llong,K Srinath
+Jaipur,Sawai Mansingh Stadium,2013-05-12,Rajasthan Royals,Chennai Super Kings,,,Rajasthan Royals,field,Chennai Super Kings,Rajasthan Royals,0,1,,5,SR Watson,HDPK Dharmasena,CK Nandan
+Delhi,Feroz Shah Kotla,2013-04-23,Delhi Daredevils,Kings XI Punjab,,,Kings XI Punjab,field,Delhi Daredevils,Kings XI Punjab,0,1,,5,Harmeet Singh,VA Kulkarni,K Srinath
+Mumbai,Wankhede Stadium,2013-05-13,Mumbai Indians,Sunrisers Hyderabad,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Mumbai Indians,0,1,,7,KA Pollard,AK Chaudhary,SJA Taufel
+Ranchi,JSCA International Stadium Complex,2013-05-15,Kolkata Knight Riders,Pune Warriors,,,Kolkata Knight Riders,field,Pune Warriors,Pune Warriors,1,0,7,,MK Pandey,NJ Llong,K Srinath
+Chennai,"MA Chidambaram Stadium, Chepauk",2013-05-14,Chennai Super Kings,Delhi Daredevils,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,33,,MS Dhoni,C Shamshuddin,RJ Tucker
+Mumbai,Wankhede Stadium,2013-05-15,Mumbai Indians,Rajasthan Royals,,,Rajasthan Royals,field,Mumbai Indians,Mumbai Indians,1,0,14,,AP Tare,Asad Rauf,S Asnani
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2013-05-06,Kings XI Punjab,Royal Challengers Bangalore,,,Kings XI Punjab,field,Royal Challengers Bangalore,Kings XI Punjab,0,1,,6,DA Miller,VA Kulkarni,NJ Llong
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2013-05-17,Sunrisers Hyderabad,Rajasthan Royals,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,23,,A Mishra,Asad Rauf,AK Chaudhary
+Dharamsala,Himachal Pradesh Cricket Association Stadium,2013-05-18,Kings XI Punjab,Mumbai Indians,,,Mumbai Indians,field,Kings XI Punjab,Kings XI Punjab,1,0,50,,Azhar Mahmood,HDPK Dharmasena,CK Nandan
+Pune,Subrata Roy Sahara Stadium,2013-05-19,Pune Warriors,Delhi Daredevils,,,Pune Warriors,bat,Pune Warriors,Pune Warriors,1,0,38,,LJ Wright,NJ Llong,SJA Taufel
+Bangalore,M Chinnaswamy Stadium,2013-05-18,Royal Challengers Bangalore,Chennai Super Kings,,,Chennai Super Kings,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,24,,V Kohli,C Shamshuddin,RJ Tucker
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2013-05-19,Sunrisers Hyderabad,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Sunrisers Hyderabad,0,1,,5,PA Patel,Asad Rauf,S Asnani
+Delhi,Feroz Shah Kotla,2013-05-21,Chennai Super Kings,Mumbai Indians,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,48,,MEK Hussey,NJ Llong,RJ Tucker
+Delhi,Feroz Shah Kotla,2013-05-22,Rajasthan Royals,Sunrisers Hyderabad,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajasthan Royals,0,1,,4,BJ Hodge,S Ravi,RJ Tucker
+Kolkata,Eden Gardens,2013-05-24,Mumbai Indians,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Mumbai Indians,0,1,,4,Harbhajan Singh,C Shamshuddin,SJA Taufel
+Kolkata,Eden Gardens,2013-05-26,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,23,,KA Pollard,HDPK Dharmasena,SJA Taufel
+Abu Dhabi,Sheikh Zayed Stadium,2014-04-16,Mumbai Indians,Kolkata Knight Riders,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,41,,JH Kallis,M Erasmus,RK Illingworth
+,Sharjah Cricket Stadium,2014-04-17,Delhi Daredevils,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Delhi Daredevils,Royal Challengers Bangalore,0,1,,8,YS Chahal,Aleem Dar,S Ravi
+Abu Dhabi,Sheikh Zayed Stadium,2014-04-18,Chennai Super Kings,Kings XI Punjab,,,Chennai Super Kings,bat,Chennai Super Kings,Kings XI Punjab,0,1,,6,GJ Maxwell,RK Illingworth,C Shamshuddin
+Abu Dhabi,Sheikh Zayed Stadium,2014-04-18,Sunrisers Hyderabad,Rajasthan Royals,,,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,1,,4,AM Rahane,BF Bowden,RK Illingworth
+,Dubai International Cricket Stadium,2014-04-19,Royal Challengers Bangalore,Mumbai Indians,,,Royal Challengers Bangalore,field,Mumbai Indians,Royal Challengers Bangalore,0,1,,7,PA Patel,Aleem Dar,AK Chaudhary
+,Dubai International Cricket Stadium,2014-04-19,Kolkata Knight Riders,Delhi Daredevils,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Delhi Daredevils,0,1,,4,JP Duminy,Aleem Dar,VA Kulkarni
+,Sharjah Cricket Stadium,2014-04-20,Rajasthan Royals,Kings XI Punjab,,,Kings XI Punjab,field,Rajasthan Royals,Kings XI Punjab,0,1,,7,GJ Maxwell,BF Bowden,M Erasmus
+Abu Dhabi,Sheikh Zayed Stadium,2014-04-21,Chennai Super Kings,Delhi Daredevils,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,93,,SK Raina,RK Illingworth,C Shamshuddin
+,Sharjah Cricket Stadium,2014-04-22,Kings XI Punjab,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Kings XI Punjab,Kings XI Punjab,1,0,72,,GJ Maxwell,M Erasmus,S Ravi
+,Dubai International Cricket Stadium,2014-04-23,Rajasthan Royals,Chennai Super Kings,,,Rajasthan Royals,field,Chennai Super Kings,Chennai Super Kings,1,0,7,,RA Jadeja,HDPK Dharmasena,RK Illingworth
+,Sharjah Cricket Stadium,2014-04-24,Royal Challengers Bangalore,Kolkata Knight Riders,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,2,,CA Lynn,Aleem Dar,VA Kulkarni
+,Dubai International Cricket Stadium,2014-04-25,Sunrisers Hyderabad,Delhi Daredevils,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,4,,AJ Finch,M Erasmus,S Ravi
+,Dubai International Cricket Stadium,2014-04-25,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Chennai Super Kings,0,1,,7,MM Sharma,BF Bowden,M Erasmus
+Abu Dhabi,Sheikh Zayed Stadium,2014-04-26,Rajasthan Royals,Royal Challengers Bangalore,,,Rajasthan Royals,field,Royal Challengers Bangalore,Rajasthan Royals,0,1,,6,PV Tambe,HDPK Dharmasena,C Shamshuddin
+Abu Dhabi,Sheikh Zayed Stadium,2014-04-26,Kolkata Knight Riders,Kings XI Punjab,,,Kolkata Knight Riders,field,Kings XI Punjab,Kings XI Punjab,1,0,23,,Sandeep Sharma,HDPK Dharmasena,RK Illingworth
+,Sharjah Cricket Stadium,2014-04-27,Delhi Daredevils,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Delhi Daredevils,0,1,,6,M Vijay,Aleem Dar,VA Kulkarni
+,Sharjah Cricket Stadium,2014-04-27,Sunrisers Hyderabad,Chennai Super Kings,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Chennai Super Kings,0,1,,5,DR Smith,AK Chaudhary,VA Kulkarni
+,Dubai International Cricket Stadium,2014-04-28,Kings XI Punjab,Royal Challengers Bangalore,,,Kings XI Punjab,field,Royal Challengers Bangalore,Kings XI Punjab,0,1,,5,Sandeep Sharma,BF Bowden,S Ravi
+Abu Dhabi,Sheikh Zayed Stadium,2014-04-29,Kolkata Knight Riders,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Tied,,,,,JP Faulkner,Aleem Dar,AK Chaudhary
+,Dubai International Cricket Stadium,2014-04-30,Mumbai Indians,Sunrisers Hyderabad,,,Mumbai Indians,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,15,,B Kumar,HDPK Dharmasena,M Erasmus
+Ranchi,JSCA International Stadium Complex,2014-05-02,Chennai Super Kings,Kolkata Knight Riders,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,34,,RA Jadeja,AK Chaudhary,NJ Llong
+Mumbai,Wankhede Stadium,2014-05-03,Mumbai Indians,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Mumbai Indians,0,1,,5,CJ Anderson,BNJ Oxenford,C Shamshuddin
+Delhi,Feroz Shah Kotla,2014-05-03,Delhi Daredevils,Rajasthan Royals,,,Rajasthan Royals,field,Delhi Daredevils,Rajasthan Royals,0,1,,7,KK Nair,SS Hazare,S Ravi
+Bangalore,M Chinnaswamy Stadium,2014-05-04,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Royal Challengers Bangalore,0,1,,4,AB de Villiers,HDPK Dharmasena,VA Kulkarni
+Ahmedabad,"Sardar Patel Stadium, Motera",2014-05-05,Rajasthan Royals,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Rajasthan Royals,Rajasthan Royals,1,0,10,,PV Tambe,NJ Llong,CK Nandan
+Delhi,Feroz Shah Kotla,2014-05-05,Delhi Daredevils,Chennai Super Kings,,,Chennai Super Kings,field,Delhi Daredevils,Chennai Super Kings,0,1,,8,DR Smith,RM Deshpande,BNJ Oxenford
+Mumbai,Wankhede Stadium,2014-05-06,Mumbai Indians,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,1,0,19,,RG Sharma,S Ravi,K Srinath
+Delhi,Feroz Shah Kotla,2014-05-07,Delhi Daredevils,Kolkata Knight Riders,,,Delhi Daredevils,bat,Delhi Daredevils,Kolkata Knight Riders,0,1,,8,G Gambhir,BNJ Oxenford,C Shamshuddin
+Cuttack,Barabati Stadium,2014-05-07,Kings XI Punjab,Chennai Super Kings,,,Chennai Super Kings,field,Kings XI Punjab,Kings XI Punjab,1,0,44,,GJ Maxwell,HDPK Dharmasena,PG Pathak
+Ahmedabad,"Sardar Patel Stadium, Motera",2014-05-08,Rajasthan Royals,Sunrisers Hyderabad,,,Rajasthan Royals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,32,,B Kumar,AK Chaudhary,NJ Llong
+Bangalore,M Chinnaswamy Stadium,2014-05-09,Royal Challengers Bangalore,Kings XI Punjab,,,Royal Challengers Bangalore,field,Kings XI Punjab,Kings XI Punjab,1,0,32,,Sandeep Sharma,S Ravi,K Srinath
+Delhi,Feroz Shah Kotla,2014-05-10,Delhi Daredevils,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Delhi Daredevils,Sunrisers Hyderabad,0,1,,8,DW Steyn,RM Deshpande,BNJ Oxenford
+Mumbai,Wankhede Stadium,2014-05-10,Mumbai Indians,Chennai Super Kings,,,Chennai Super Kings,field,Mumbai Indians,Chennai Super Kings,0,1,,4,DR Smith,HDPK Dharmasena,VA Kulkarni
+Cuttack,Barabati Stadium,2014-05-11,Kings XI Punjab,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Kings XI Punjab,Kolkata Knight Riders,0,1,,9,G Gambhir,NJ Llong,CK Nandan
+Bangalore,M Chinnaswamy Stadium,2014-05-11,Royal Challengers Bangalore,Rajasthan Royals,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Rajasthan Royals,0,1,,5,JP Faulkner,S Ravi,RJ Tucker
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2014-05-12,Sunrisers Hyderabad,Mumbai Indians,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Mumbai Indians,0,1,,7,AT Rayudu,HDPK Dharmasena,VA Kulkarni
+Ranchi,JSCA International Stadium Complex,2014-05-13,Chennai Super Kings,Rajasthan Royals,,,Rajasthan Royals,bat,Rajasthan Royals,Chennai Super Kings,0,1,,5,RA Jadeja,BNJ Oxenford,C Shamshuddin
+Bangalore,M Chinnaswamy Stadium,2014-05-13,Royal Challengers Bangalore,Delhi Daredevils,,,Delhi Daredevils,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,16,,Yuvraj Singh,K Srinath,RJ Tucker
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2014-05-14,Sunrisers Hyderabad,Kings XI Punjab,,,Kings XI Punjab,field,Sunrisers Hyderabad,Kings XI Punjab,0,1,,6,WP Saha,VA Kulkarni,PG Pathak
+Cuttack,Barabati Stadium,2014-05-14,Kolkata Knight Riders,Mumbai Indians,,,Kolkata Knight Riders,field,Mumbai Indians,Kolkata Knight Riders,0,1,,6,RV Uthappa,AK Chaudhary,NJ Llong
+Ahmedabad,"Sardar Patel Stadium, Motera",2014-05-15,Rajasthan Royals,Delhi Daredevils,,,Delhi Daredevils,field,Rajasthan Royals,Rajasthan Royals,1,0,62,,AM Rahane,S Ravi,RJ Tucker
+Ranchi,JSCA International Stadium Complex,2014-05-18,Chennai Super Kings,Royal Challengers Bangalore,,,Chennai Super Kings,bat,Chennai Super Kings,Royal Challengers Bangalore,0,1,,5,AB de Villiers,BNJ Oxenford,C Shamshuddin
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2014-05-18,Sunrisers Hyderabad,Kolkata Knight Riders,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Kolkata Knight Riders,0,1,,7,UT Yadav,NJ Llong,CK Nandan
+Ahmedabad,"Sardar Patel Stadium, Motera",2014-05-19,Rajasthan Royals,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,25,,MEK Hussey,S Ravi,RJ Tucker
+Delhi,Feroz Shah Kotla,2014-05-19,Delhi Daredevils,Kings XI Punjab,,,Kings XI Punjab,field,Delhi Daredevils,Kings XI Punjab,0,1,,4,AR Patel,HDPK Dharmasena,PG Pathak
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2014-05-20,Sunrisers Hyderabad,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Sunrisers Hyderabad,0,1,,7,DA Warner,AK Chaudhary,NJ Llong
+Kolkata,Eden Gardens,2014-05-20,Kolkata Knight Riders,Chennai Super Kings,,,Kolkata Knight Riders,field,Chennai Super Kings,Kolkata Knight Riders,0,1,,8,RV Uthappa,RM Deshpande,C Shamshuddin
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2014-05-21,Kings XI Punjab,Mumbai Indians,,,Mumbai Indians,field,Kings XI Punjab,Mumbai Indians,0,1,,7,LMP Simmons,HDPK Dharmasena,VA Kulkarni
+Kolkata,Eden Gardens,2014-05-22,Kolkata Knight Riders,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,30,,RV Uthappa,AK Chaudhary,CK Nandan
+Ranchi,JSCA International Stadium Complex,2014-05-22,Chennai Super Kings,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Chennai Super Kings,Sunrisers Hyderabad,0,1,,6,DA Warner,BNJ Oxenford,C Shamshuddin
+Mumbai,Wankhede Stadium,2014-05-23,Mumbai Indians,Delhi Daredevils,,,Delhi Daredevils,field,Mumbai Indians,Mumbai Indians,1,0,15,,MEK Hussey,S Ravi,RJ Tucker
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2014-05-23,Kings XI Punjab,Rajasthan Royals,,,Rajasthan Royals,field,Kings XI Punjab,Kings XI Punjab,1,0,16,,SE Marsh,HDPK Dharmasena,PG Pathak
+Bangalore,M Chinnaswamy Stadium,2014-05-24,Royal Challengers Bangalore,Chennai Super Kings,,,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,1,,8,MS Dhoni,AK Chaudhary,NJ Llong
+Kolkata,Eden Gardens,2014-05-24,Kolkata Knight Riders,Sunrisers Hyderabad,,,Kolkata Knight Riders,field,Sunrisers Hyderabad,Kolkata Knight Riders,0,1,,4,YK Pathan,RM Deshpande,BNJ Oxenford
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2014-05-25,Kings XI Punjab,Delhi Daredevils,,,Kings XI Punjab,field,Delhi Daredevils,Kings XI Punjab,0,1,,7,M Vohra,HDPK Dharmasena,VA Kulkarni
+Mumbai,Wankhede Stadium,2014-05-25,Mumbai Indians,Rajasthan Royals,,,Mumbai Indians,field,Rajasthan Royals,Mumbai Indians,0,1,,5,CJ Anderson,K Srinath,RJ Tucker
+Kolkata,Eden Gardens,2014-05-27,Kings XI Punjab,Kolkata Knight Riders,,,Kings XI Punjab,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,28,,UT Yadav,NJ Llong,S Ravi
+Mumbai,Brabourne Stadium,2014-05-28,Chennai Super Kings,Mumbai Indians,,,Chennai Super Kings,field,Mumbai Indians,Chennai Super Kings,0,1,,7,SK Raina,VA Kulkarni,BNJ Oxenford
+Mumbai,Wankhede Stadium,2014-05-30,Chennai Super Kings,Kings XI Punjab,,,Chennai Super Kings,field,Kings XI Punjab,Kings XI Punjab,1,0,24,,V Sehwag,HDPK Dharmasena,RJ Tucker
+Bangalore,M Chinnaswamy Stadium,2014-06-01,Kolkata Knight Riders,Kings XI Punjab,,,Kolkata Knight Riders,field,Kings XI Punjab,Kolkata Knight Riders,0,1,,3,MK Pandey,HDPK Dharmasena,BNJ Oxenford
+Kolkata,Eden Gardens,2015-04-08,Kolkata Knight Riders,Mumbai Indians,,,Kolkata Knight Riders,field,Mumbai Indians,Kolkata Knight Riders,0,1,,7,M Morkel,S Ravi,C Shamshuddin
+Chennai,"MA Chidambaram Stadium, Chepauk",2015-04-09,Chennai Super Kings,Delhi Daredevils,,,Delhi Daredevils,field,Chennai Super Kings,Chennai Super Kings,1,0,1,,A Nehra,RK Illingworth,VA Kulkarni
+Pune,Maharashtra Cricket Association Stadium,2015-04-10,Kings XI Punjab,Rajasthan Royals,,,Kings XI Punjab,field,Rajasthan Royals,Rajasthan Royals,1,0,26,,JP Faulkner,SD Fry,CB Gaffaney
+Chennai,"MA Chidambaram Stadium, Chepauk",2015-04-11,Chennai Super Kings,Sunrisers Hyderabad,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,45,,BB McCullum,RK Illingworth,VA Kulkarni
+Kolkata,Eden Gardens,2015-04-11,Kolkata Knight Riders,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,3,CH Gayle,S Ravi,C Shamshuddin
+Delhi,Feroz Shah Kotla,2015-04-12,Delhi Daredevils,Rajasthan Royals,,,Rajasthan Royals,field,Delhi Daredevils,Rajasthan Royals,0,1,,3,DJ Hooda,SD Fry,CB Gaffaney
+Mumbai,Wankhede Stadium,2015-04-12,Mumbai Indians,Kings XI Punjab,,,Mumbai Indians,field,Kings XI Punjab,Kings XI Punjab,1,0,18,,GJ Bailey,AK Chaudhary,K Srinivasan
+Bangalore,M Chinnaswamy Stadium,2015-04-13,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Sunrisers Hyderabad,0,1,,8,DA Warner,RM Deshpande,RK Illingworth
+Ahmedabad,"Sardar Patel Stadium, Motera",2015-04-14,Rajasthan Royals,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Rajasthan Royals,0,1,,7,SPD Smith,AK Chaudhary,SD Fry
+Kolkata,Eden Gardens,2015-04-30,Kolkata Knight Riders,Chennai Super Kings,,,Kolkata Knight Riders,field,Chennai Super Kings,Kolkata Knight Riders,0,1,,7,AD Russell,AK Chaudhary,M Erasmus
+Pune,Maharashtra Cricket Association Stadium,2015-04-15,Kings XI Punjab,Delhi Daredevils,,,Kings XI Punjab,bat,Kings XI Punjab,Delhi Daredevils,0,1,,5,MA Agarwal,CB Gaffaney,K Srinath
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015-04-16,Sunrisers Hyderabad,Rajasthan Royals,,,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,1,,6,AM Rahane,PG Pathak,S Ravi
+Mumbai,Wankhede Stadium,2015-04-17,Mumbai Indians,Chennai Super Kings,,,Mumbai Indians,bat,Mumbai Indians,Chennai Super Kings,0,1,,6,A Nehra,AK Chaudhary,M Erasmus
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015-04-18,Sunrisers Hyderabad,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Delhi Daredevils,1,0,4,,JP Duminy,PG Pathak,S Ravi
+Pune,Maharashtra Cricket Association Stadium,2015-04-18,Kings XI Punjab,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Kings XI Punjab,Kolkata Knight Riders,0,1,,4,AD Russell,SD Fry,CK Nandan
+Ahmedabad,"Sardar Patel Stadium, Motera",2015-04-19,Rajasthan Royals,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Rajasthan Royals,0,1,,8,AM Rahane,AK Chaudhary,M Erasmus
+Bangalore,M Chinnaswamy Stadium,2015-04-19,Royal Challengers Bangalore,Mumbai Indians,,,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,1,0,18,,Harbhajan Singh,RK Illingworth,VA Kulkarni
+Delhi,Feroz Shah Kotla,2015-04-20,Delhi Daredevils,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Delhi Daredevils,Kolkata Knight Riders,0,1,,6,UT Yadav,SD Fry,CB Gaffaney
+Ahmedabad,"Sardar Patel Stadium, Motera",2015-04-21,Rajasthan Royals,Kings XI Punjab,,,Kings XI Punjab,field,Rajasthan Royals,Tied,,,,,SE Marsh,M Erasmus,S Ravi
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015-04-22,Sunrisers Hyderabad,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,16,,DA Warner,RK Illingworth,VA Kulkarni
+Bangalore,M Chinnaswamy Stadium,2015-04-22,Royal Challengers Bangalore,Chennai Super Kings,,,Royal Challengers Bangalore,field,Chennai Super Kings,Chennai Super Kings,1,0,27,,SK Raina,JD Cloete,C Shamshuddin
+Delhi,Feroz Shah Kotla,2015-04-23,Delhi Daredevils,Mumbai Indians,,,Mumbai Indians,field,Delhi Daredevils,Delhi Daredevils,1,0,37,,SS Iyer,SD Fry,CK Nandan
+Ahmedabad,"Sardar Patel Stadium, Motera",2015-04-24,Rajasthan Royals,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,1,,9,MA Starc,M Erasmus,S Ravi
+Mumbai,Wankhede Stadium,2015-04-25,Mumbai Indians,Sunrisers Hyderabad,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,20,,SL Malinga,HDPK Dharmasena,CB Gaffaney
+Chennai,"MA Chidambaram Stadium, Chepauk",2015-04-25,Chennai Super Kings,Kings XI Punjab,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,97,,BB McCullum,JD Cloete,C Shamshuddin
+Delhi,Feroz Shah Kotla,2015-04-26,Delhi Daredevils,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Delhi Daredevils,Royal Challengers Bangalore,0,1,,10,VR Aaron,M Erasmus,S Ravi
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2015-04-27,Kings XI Punjab,Sunrisers Hyderabad,,,Kings XI Punjab,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,20,,TA Boult,HDPK Dharmasena,CB Gaffaney
+Kolkata,Eden Gardens,2015-05-07,Kolkata Knight Riders,Delhi Daredevils,,,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,1,0,13,,PP Chawla,AK Chaudhary,M Erasmus
+Bangalore,M Chinnaswamy Stadium,2015-04-29,Royal Challengers Bangalore,Rajasthan Royals,,,Rajasthan Royals,field,Royal Challengers Bangalore,Tied,,,,,,JD Cloete,PG Pathak
+Chennai,"MA Chidambaram Stadium, Chepauk",2015-04-28,Chennai Super Kings,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Chennai Super Kings,Chennai Super Kings,1,0,2,,DJ Bravo,RM Deshpande,VA Kulkarni
+Delhi,Feroz Shah Kotla,2015-05-01,Delhi Daredevils,Kings XI Punjab,,,Delhi Daredevils,field,Kings XI Punjab,Delhi Daredevils,0,1,,9,NM Coulter-Nile,RK Illingworth,S Ravi
+Mumbai,Wankhede Stadium,2015-05-01,Mumbai Indians,Rajasthan Royals,,,Rajasthan Royals,field,Mumbai Indians,Mumbai Indians,1,0,8,,AT Rayudu,HDPK Dharmasena,CK Nandan
+Bangalore,M Chinnaswamy Stadium,2015-05-02,Royal Challengers Bangalore,Kolkata Knight Riders,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,7,Mandeep Singh,JD Cloete,PG Pathak
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2015-05-02,Sunrisers Hyderabad,Chennai Super Kings,,,Chennai Super Kings,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,22,,DA Warner,AK Chaudhary,K Srinivasan
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2015-05-03,Kings XI Punjab,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,23,,LMP Simmons,RK Illingworth,VA Kulkarni
+Mumbai,Brabourne Stadium,2015-05-03,Rajasthan Royals,Delhi Daredevils,,,Delhi Daredevils,field,Rajasthan Royals,Rajasthan Royals,1,0,14,,AM Rahane,HDPK Dharmasena,CB Gaffaney
+Chennai,"MA Chidambaram Stadium, Chepauk",2015-05-04,Chennai Super Kings,Royal Challengers Bangalore,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,24,,SK Raina,C Shamshuddin,K Srinath
+Kolkata,Eden Gardens,2015-05-04,Kolkata Knight Riders,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,35,,UT Yadav,AK Chaudhary,M Erasmus
+Mumbai,Wankhede Stadium,2015-05-05,Mumbai Indians,Delhi Daredevils,,,Delhi Daredevils,bat,Delhi Daredevils,Mumbai Indians,0,1,,5,Harbhajan Singh,HDPK Dharmasena,CB Gaffaney
+Bangalore,M Chinnaswamy Stadium,2015-05-06,Royal Challengers Bangalore,Kings XI Punjab,,,Kings XI Punjab,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,138,,CH Gayle,RK Illingworth,VA Kulkarni
+Mumbai,Brabourne Stadium,2015-05-07,Rajasthan Royals,Sunrisers Hyderabad,,,Rajasthan Royals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,7,,EJG Morgan,JD Cloete,C Shamshuddin
+Chennai,"MA Chidambaram Stadium, Chepauk",2015-05-08,Chennai Super Kings,Mumbai Indians,,,Chennai Super Kings,bat,Chennai Super Kings,Mumbai Indians,0,1,,6,HH Pandya,CB Gaffaney,CK Nandan
+Kolkata,Eden Gardens,2015-05-09,Kolkata Knight Riders,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Kolkata Knight Riders,0,1,,1,AD Russell,AK Chaudhary,HDPK Dharmasena
+Raipur,Shaheed Veer Narayan Singh International Stadium,2015-05-09,Delhi Daredevils,Sunrisers Hyderabad,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,6,,MC Henriques,VA Kulkarni,S Ravi
+Mumbai,Wankhede Stadium,2015-05-10,Mumbai Indians,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,39,,AB de Villiers,JD Cloete,C Shamshuddin
+Chennai,"MA Chidambaram Stadium, Chepauk",2015-05-10,Chennai Super Kings,Rajasthan Royals,,,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,1,0,12,,RA Jadeja,M Erasmus,CK Nandan
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2015-05-11,Sunrisers Hyderabad,Kings XI Punjab,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,5,,DA Warner,AK Chaudhary,HDPK Dharmasena
+Raipur,Shaheed Veer Narayan Singh International Stadium,2015-05-12,Delhi Daredevils,Chennai Super Kings,,,Chennai Super Kings,bat,Chennai Super Kings,Delhi Daredevils,0,1,,6,Z Khan,RK Illingworth,VA Kulkarni
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2015-05-13,Kings XI Punjab,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kings XI Punjab,Kings XI Punjab,1,0,22,,AR Patel,JD Cloete,C Shamshuddin
+Mumbai,Wankhede Stadium,2015-05-14,Mumbai Indians,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Mumbai Indians,Mumbai Indians,1,0,5,,HH Pandya,RK Illingworth,VA Kulkarni
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2015-05-15,Sunrisers Hyderabad,Royal Challengers Bangalore,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Royal Challengers Bangalore,0,1,,6,V Kohli,AK Chaudhary,HDPK Dharmasena
+Chandigarh,"Punjab Cricket Association Stadium, Mohali",2015-05-16,Kings XI Punjab,Chennai Super Kings,,,Kings XI Punjab,bat,Kings XI Punjab,Chennai Super Kings,0,1,,7,P Negi,CK Nandan,C Shamshuddin
+Mumbai,Brabourne Stadium,2015-05-16,Rajasthan Royals,Kolkata Knight Riders,,,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,1,0,9,,SR Watson,RM Deshpande,RK Illingworth
+Bangalore,M Chinnaswamy Stadium,2015-05-17,Royal Challengers Bangalore,Delhi Daredevils,,,Royal Challengers Bangalore,field,Delhi Daredevils,Tied,,,,,,HDPK Dharmasena,K Srinivasan
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2015-05-17,Sunrisers Hyderabad,Mumbai Indians,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Mumbai Indians,0,1,,9,MJ McClenaghan,CB Gaffaney,K Srinath
+Mumbai,Wankhede Stadium,2015-05-19,Chennai Super Kings,Mumbai Indians,,,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,1,0,25,,KA Pollard,HDPK Dharmasena,RK Illingworth
+Pune,Maharashtra Cricket Association Stadium,2015-05-20,Royal Challengers Bangalore,Rajasthan Royals,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,71,,AB de Villiers,AK Chaudhary,C Shamshuddin
+Ranchi,JSCA International Stadium Complex,2015-05-22,Chennai Super Kings,Royal Challengers Bangalore,,,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,1,,3,A Nehra,AK Chaudhary,CB Gaffaney
+Kolkata,Eden Gardens,2015-05-24,Mumbai Indians,Chennai Super Kings,,,Chennai Super Kings,field,Mumbai Indians,Mumbai Indians,1,0,41,,RG Sharma,HDPK Dharmasena,RK Illingworth
+Mumbai,Wankhede Stadium,2016-04-09,Mumbai Indians,Rising Pune Supergiants,,,Mumbai Indians,bat,Mumbai Indians,Rising Pune Supergiants,0,1,,9,AM Rahane,HDPK Dharmasena,CK Nandan
+Kolkata,Eden Gardens,2016-04-10,Kolkata Knight Riders,Delhi Daredevils,,,Kolkata Knight Riders,field,Delhi Daredevils,Kolkata Knight Riders,0,1,,9,AD Russell,S Ravi,C Shamshuddin
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-11,Kings XI Punjab,Gujarat Lions,,,Gujarat Lions,field,Kings XI Punjab,Gujarat Lions,0,1,,5,AJ Finch,AK Chaudhary,VA Kulkarni
+Bangalore,M Chinnaswamy Stadium,2016-04-12,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,45,,AB de Villiers,HDPK Dharmasena,VK Sharma
+Kolkata,Eden Gardens,2016-04-13,Kolkata Knight Riders,Mumbai Indians,,,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,1,,6,RG Sharma,Nitin Menon,S Ravi
+Rajkot,Saurashtra Cricket Association Stadium,2016-04-14,Gujarat Lions,Rising Pune Supergiants,,,Rising Pune Supergiants,bat,Rising Pune Supergiants,Gujarat Lions,0,1,,7,AJ Finch,VA Kulkarni,CK Nandan
+Delhi,Feroz Shah Kotla,2016-04-15,Delhi Daredevils,Kings XI Punjab,,,Delhi Daredevils,field,Kings XI Punjab,Delhi Daredevils,0,1,,8,A Mishra,S Ravi,C Shamshuddin
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2016-04-16,Sunrisers Hyderabad,Kolkata Knight Riders,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Kolkata Knight Riders,0,1,,8,G Gambhir,AK Chaudhary,CK Nandan
+Mumbai,Wankhede Stadium,2016-04-16,Mumbai Indians,Gujarat Lions,,,Gujarat Lions,field,Mumbai Indians,Gujarat Lions,0,1,,3,AJ Finch,HDPK Dharmasena,VK Sharma
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-17,Kings XI Punjab,Rising Pune Supergiants,,,Rising Pune Supergiants,bat,Rising Pune Supergiants,Kings XI Punjab,0,1,,6,M Vohra,S Ravi,C Shamshuddin
+Bangalore,M Chinnaswamy Stadium,2016-04-17,Royal Challengers Bangalore,Delhi Daredevils,,,Delhi Daredevils,field,Royal Challengers Bangalore,Delhi Daredevils,0,1,,7,Q de Kock,VA Kulkarni,A Nand Kishore
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2016-04-18,Sunrisers Hyderabad,Mumbai Indians,,,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,1,,7,DA Warner,HDPK Dharmasena,VK Sharma
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-19,Kings XI Punjab,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Kings XI Punjab,Kolkata Knight Riders,0,1,,6,RV Uthappa,S Ravi,C Shamshuddin
+Mumbai,Wankhede Stadium,2016-04-20,Mumbai Indians,Royal Challengers Bangalore,,,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,1,,6,RG Sharma,AK Chaudhary,CK Nandan
+Rajkot,Saurashtra Cricket Association Stadium,2016-04-21,Gujarat Lions,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Gujarat Lions,Sunrisers Hyderabad,0,1,,10,B Kumar,K Bharatan,HDPK Dharmasena
+Pune,Maharashtra Cricket Association Stadium,2016-04-22,Rising Pune Supergiants,Royal Challengers Bangalore,,,Rising Pune Supergiants,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,13,,AB de Villiers,CB Gaffaney,VK Sharma
+Delhi,Feroz Shah Kotla,2016-04-23,Delhi Daredevils,Mumbai Indians,,,Mumbai Indians,field,Delhi Daredevils,Delhi Daredevils,1,0,10,,SV Samson,S Ravi,C Shamshuddin
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2016-04-23,Sunrisers Hyderabad,Kings XI Punjab,,,Sunrisers Hyderabad,field,Kings XI Punjab,Sunrisers Hyderabad,0,1,,5,Mustafizur Rahman,AK Chaudhary,CK Nandan
+Rajkot,Saurashtra Cricket Association Stadium,2016-04-24,Gujarat Lions,Royal Challengers Bangalore,,,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Gujarat Lions,0,1,,6,V Kohli,K Bharatan,BNJ Oxenford
+Pune,Maharashtra Cricket Association Stadium,2016-04-24,Rising Pune Supergiants,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Rising Pune Supergiants,Kolkata Knight Riders,0,1,,2,SA Yadav,CB Gaffaney,A Nand Kishore
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-25,Kings XI Punjab,Mumbai Indians,,,Kings XI Punjab,field,Mumbai Indians,Mumbai Indians,1,0,25,,PA Patel,Nitin Menon,RJ Tucker
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2016-04-26,Sunrisers Hyderabad,Rising Pune Supergiants,,,Rising Pune Supergiants,field,Sunrisers Hyderabad,Rising Pune Supergiants,1,0,34,,AB Dinda,AY Dandekar,CK Nandan
+Delhi,Feroz Shah Kotla,2016-04-27,Delhi Daredevils,Gujarat Lions,,,Delhi Daredevils,field,Gujarat Lions,Gujarat Lions,1,0,1,,CH Morris,M Erasmus,S Ravi
+Mumbai,Wankhede Stadium,2016-04-28,Mumbai Indians,Kolkata Knight Riders,,,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,1,,6,RG Sharma,Nitin Menon,RJ Tucker
+Pune,Maharashtra Cricket Association Stadium,2016-04-29,Rising Pune Supergiants,Gujarat Lions,,,Gujarat Lions,field,Rising Pune Supergiants,Gujarat Lions,0,1,,3,DR Smith,CB Gaffaney,BNJ Oxenford
+Delhi,Feroz Shah Kotla,2016-04-30,Delhi Daredevils,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Delhi Daredevils,Delhi Daredevils,1,0,27,,CR Brathwaite,KN Ananthapadmanabhan,M Erasmus
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2016-04-30,Sunrisers Hyderabad,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,15,,DA Warner,AK Chaudhary,HDPK Dharmasena
+Rajkot,Saurashtra Cricket Association Stadium,2016-05-01,Gujarat Lions,Kings XI Punjab,,,Gujarat Lions,field,Kings XI Punjab,Kings XI Punjab,1,0,23,,AR Patel,BNJ Oxenford,VK Sharma
+Pune,Maharashtra Cricket Association Stadium,2016-05-01,Rising Pune Supergiants,Mumbai Indians,,,Mumbai Indians,field,Rising Pune Supergiants,Mumbai Indians,0,1,,8,RG Sharma,AY Dandekar,RJ Tucker
+Bangalore,M Chinnaswamy Stadium,2016-05-02,Royal Challengers Bangalore,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,1,,5,AD Russell,M Erasmus,S Ravi
+Rajkot,Saurashtra Cricket Association Stadium,2016-05-03,Gujarat Lions,Delhi Daredevils,,,Delhi Daredevils,field,Gujarat Lions,Delhi Daredevils,0,1,,8,RR Pant,CB Gaffaney,BNJ Oxenford
+Kolkata,Eden Gardens,2016-05-04,Kolkata Knight Riders,Kings XI Punjab,,,Kings XI Punjab,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,7,,AD Russell,AK Chaudhary,HDPK Dharmasena
+Delhi,Feroz Shah Kotla,2016-05-05,Delhi Daredevils,Rising Pune Supergiants,,,Rising Pune Supergiants,field,Delhi Daredevils,Rising Pune Supergiants,0,1,,7,AM Rahane,C Shamshuddin,RJ Tucker
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2016-05-06,Sunrisers Hyderabad,Gujarat Lions,,,Sunrisers Hyderabad,field,Gujarat Lions,Sunrisers Hyderabad,0,1,,5,B Kumar,M Erasmus,S Ravi
+Bangalore,M Chinnaswamy Stadium,2016-05-07,Royal Challengers Bangalore,Rising Pune Supergiants,,,Royal Challengers Bangalore,field,Rising Pune Supergiants,Royal Challengers Bangalore,0,1,,7,V Kohli,CB Gaffaney,BNJ Oxenford
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-05-07,Kings XI Punjab,Delhi Daredevils,,,Delhi Daredevils,field,Kings XI Punjab,Kings XI Punjab,1,0,9,,MP Stoinis,HDPK Dharmasena,CK Nandan
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-08,Mumbai Indians,Sunrisers Hyderabad,,,Mumbai Indians,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,85,,A Nehra,S Ravi,C Shamshuddin
+Kolkata,Eden Gardens,2016-05-08,Kolkata Knight Riders,Gujarat Lions,,,Gujarat Lions,field,Kolkata Knight Riders,Gujarat Lions,0,1,,5,P Kumar,M Erasmus,RJ Tucker
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-05-09,Kings XI Punjab,Royal Challengers Bangalore,,,Kings XI Punjab,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,1,,SR Watson,AK Chaudhary,HDPK Dharmasena
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-10,Rising Pune Supergiants,Sunrisers Hyderabad,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,4,,A Zampa,CB Gaffaney,VK Sharma
+Bangalore,M Chinnaswamy Stadium,2016-05-11,Royal Challengers Bangalore,Mumbai Indians,,,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,1,,6,KH Pandya,AY Dandekar,C Shamshuddin
+Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2016-05-12,Sunrisers Hyderabad,Delhi Daredevils,,,Delhi Daredevils,field,Sunrisers Hyderabad,Delhi Daredevils,0,1,,7,CH Morris,K Bharatan,M Erasmus
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-13,Mumbai Indians,Kings XI Punjab,,,Mumbai Indians,bat,Mumbai Indians,Kings XI Punjab,0,1,,7,MP Stoinis,HDPK Dharmasena,CK Nandan
+Bangalore,M Chinnaswamy Stadium,2016-05-14,Royal Challengers Bangalore,Gujarat Lions,,,Gujarat Lions,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,144,,AB de Villiers,AY Dandekar,VK Sharma
+Kolkata,Eden Gardens,2016-05-14,Kolkata Knight Riders,Rising Pune Supergiants,,,Rising Pune Supergiants,bat,Rising Pune Supergiants,Kolkata Knight Riders,0,1,,8,YK Pathan,A Nand Kishore,BNJ Oxenford
+Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-05-15,Kings XI Punjab,Sunrisers Hyderabad,,,Kings XI Punjab,bat,Kings XI Punjab,Sunrisers Hyderabad,0,1,,7,HM Amla,KN Ananthapadmanabhan,M Erasmus
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-15,Mumbai Indians,Delhi Daredevils,,,Delhi Daredevils,field,Mumbai Indians,Mumbai Indians,1,0,80,,KH Pandya,Nitin Menon,CK Nandan
+Kolkata,Eden Gardens,2016-05-16,Kolkata Knight Riders,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,,9,V Kohli,CB Gaffaney,A Nand Kishore
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-17,Rising Pune Supergiants,Delhi Daredevils,,,Rising Pune Supergiants,field,Delhi Daredevils,Rising Pune Supergiants,1,0,19,,AB Dinda,Nitin Menon,C Shamshuddin
+Bangalore,M Chinnaswamy Stadium,2016-05-18,Royal Challengers Bangalore,Kings XI Punjab,,,Kings XI Punjab,field,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,82,,V Kohli,KN Ananthapadmanabhan,M Erasmus
+Kanpur,Green Park,2016-05-19,Gujarat Lions,Kolkata Knight Riders,,,Gujarat Lions,field,Kolkata Knight Riders,Gujarat Lions,0,1,,6,DR Smith,AK Chaudhary,CK Nandan
+Raipur,Shaheed Veer Narayan Singh International Stadium,2016-05-20,Delhi Daredevils,Sunrisers Hyderabad,,,Delhi Daredevils,field,Sunrisers Hyderabad,Delhi Daredevils,0,1,,6,KK Nair,A Nand Kishore,BNJ Oxenford
+Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-21,Rising Pune Supergiants,Kings XI Punjab,,,Kings XI Punjab,bat,Kings XI Punjab,Rising Pune Supergiants,0,1,,4,MS Dhoni,HDPK Dharmasena,Nitin Menon
+Kanpur,Green Park,2016-05-21,Gujarat Lions,Mumbai Indians,,,Gujarat Lions,field,Mumbai Indians,Gujarat Lions,0,1,,6,SK Raina,AK Chaudhary,CK Nandan
+Kolkata,Eden Gardens,2016-05-22,Kolkata Knight Riders,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Kolkata Knight Riders,Kolkata Knight Riders,1,0,22,,YK Pathan,KN Ananthapadmanabhan,M Erasmus
+Raipur,Shaheed Veer Narayan Singh International Stadium,2016-05-22,Delhi Daredevils,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Delhi Daredevils,Royal Challengers Bangalore,0,1,,6,V Kohli,A Nand Kishore,BNJ Oxenford
+Bangalore,M Chinnaswamy Stadium,2016-05-24,Gujarat Lions,Royal Challengers Bangalore,,,Royal Challengers Bangalore,field,Gujarat Lions,Royal Challengers Bangalore,0,1,,4,AB de Villiers,AK Chaudhary,HDPK Dharmasena
+Delhi,Feroz Shah Kotla,2016-05-25,Sunrisers Hyderabad,Kolkata Knight Riders,,,Kolkata Knight Riders,field,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,22,,MC Henriques,M Erasmus,C Shamshuddin
+Delhi,Feroz Shah Kotla,2016-05-27,Gujarat Lions,Sunrisers Hyderabad,,,Sunrisers Hyderabad,field,Gujarat Lions,Sunrisers Hyderabad,0,1,,4,DA Warner,M Erasmus,CK Nandan
+Bangalore,M Chinnaswamy Stadium,2016-05-29,Royal Challengers Bangalore,Sunrisers Hyderabad,,,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0,8,,BCJ Cutting,HDPK Dharmasena,BNJ Oxenford
